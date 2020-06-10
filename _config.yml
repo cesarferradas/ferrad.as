@@ -2,20 +2,23 @@
 title:               César Ferradas
 tagline:             'Blog'
 description:         ''
-url:                 https://cesar.sh/blog
-baseurl:             https://cesar.sh
+url:                 'https://cesar.sh'
+baseurl:             '/blog'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              César Ferradas
-  url:               https://cesar.sh
+  url:               'https://cesar.sh'
   email:             'blog at cesar.sh'
 
 # Gems
 plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Custom vars
 version:             1.1.0
