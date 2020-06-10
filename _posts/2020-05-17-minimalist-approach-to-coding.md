@@ -2,7 +2,7 @@
 title: A minimalist approach to coding
 ---
 
-Following on from my [previous post](/functionality-over-style), I thought I'd write about how minimalism can be applied to developing good software.
+Following on from my [previous post](functionality-over-style), I thought I'd write about how minimalism can be applied to developing good software.
 
 This is a good question to ask yourself before building a new system of feature:
 
