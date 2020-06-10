@@ -1,23 +1,20 @@
-# Setup
-title:               César
-tagline:             'Blog'
-description:         ''
-url:                 'https://cesar.sh'
-baseurl:             '/blog'
-paginate:            1
-permalink:           /:title
+# Config
+title:          César
+tagline:        Blog
+url:            https://cesar.sh
+baseurl:        /blog
+permalink:      /:title
+paginate:       3
+paginate_path:  /:num
 
-# About/contact
+# Contact
 author:
-  name:              César
-  url:               'https://cesar.sh'
-  email:             'blog (at) cesar [dot] sh'
+  name:         César
+  url:          https://cesar.sh
+  email:        blog at cesar.sh
 
 # Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-
-# Custom vars
-version:             1.1.0
