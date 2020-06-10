@@ -1,0 +1,22 @@
+# Setup
+title:               César Ferradas
+tagline:             'Blog'
+description:         ''
+url:                 https://cesar.sh/blog
+baseurl:             https://cesar.sh
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              César Ferradas
+  url:               https://cesar.sh
+  email:             'blog at cesar.sh'
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
