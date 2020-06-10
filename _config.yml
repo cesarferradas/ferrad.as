@@ -4,7 +4,7 @@ tagline:             'Blog'
 description:         ''
 url:                 'https://cesar.sh'
 baseurl:             '/blog'
-paginate:            5
+paginate:            1
 permalink:           /:title
 
 # About/contact

@@ -1,4 +1,6 @@
-# About
+---
+title: About
+---
 
 Welcome to my personal blog.
 
