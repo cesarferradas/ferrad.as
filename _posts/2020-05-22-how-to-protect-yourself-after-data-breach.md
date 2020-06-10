@@ -13,7 +13,7 @@ If your email and password for an account were leaked, cybercriminals will attem
 ### Actions
 
 - Reset the password on all of your online accounts to unique, random ones. Use a password manager to keep track of all of your login credentials.
-- I have a [blog post about passwords](/password-habits) which can help you get started.
+- I have a [blog post about passwords](password-habits) which can help you get started.
 
 
 ## Social engineering
