@@ -1,4 +1,6 @@
-# The EasyJet data breach is no surprise
+---
+title: The EasyJet data breach is no surprise
+---
 
 I just received the email.
 
