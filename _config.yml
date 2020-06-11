@@ -4,8 +4,7 @@ tagline:        Blog
 url:            https://cesar.sh
 baseurl:        /blog
 permalink:      /:title
-paginate:       3
-paginate_path:  /:num
+paginate:       5
 
 # Contact
 author:
