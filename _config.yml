@@ -4,7 +4,7 @@ tagline:        Computer Science, Startups, Lifestyle
 url:            https://cesar.sh
 baseurl:        /blog
 permalink:      /:title
-paginate:       5
+paginate:       10
 
 # Contact
 author:
