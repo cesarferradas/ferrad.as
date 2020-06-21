@@ -6,7 +6,7 @@ I just received the email.
 
 I'm one of the **9 million** EasyJet customers who's had their data leaked. I didn't think this would happen to me.
 
-I'm very aware it _could_ happen to me, mind you. That's why I practice good online security: I have good [password habits](/password-habits), I check websites I sign up to to make sure they're not dangerous, I give minimal personal information online and I regularly delete old accounts I don't use anymore. I just never thought it would actually happen to me.
+I'm very aware it _could_ happen to me, mind you. That's why I practice good online security: I have good [password habits](password-habits), I check websites I sign up to to make sure they're not dangerous, I give minimal personal information online and I regularly delete old accounts I don't use anymore. I just never thought it would actually happen to me.
 
 Thinking about it, it's no surprise.
 
