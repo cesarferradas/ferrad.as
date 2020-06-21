@@ -1,6 +1,6 @@
 # Config
-title:          César
-tagline:        Blog
+title:          César's Blog
+tagline:        Personal blog about software engineering, startups and habits.
 url:            https://cesar.sh
 baseurl:        /blog
 permalink:      /:title
@@ -10,10 +10,11 @@ paginate:       5
 author:
   name:         César
   url:          https://cesar.sh
-  email:        blog at cesar.sh
+  email:        blog(at)cesar.sh
 
 # Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
