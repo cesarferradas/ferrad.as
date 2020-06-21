@@ -1,6 +1,6 @@
 # Config
 title:          César's Blog
-tagline:        Personal blog about software engineering, startups and habits.
+tagline:        Computer Science, Startups, Lifestyle
 url:            https://cesar.sh
 baseurl:        /blog
 permalink:      /:title
