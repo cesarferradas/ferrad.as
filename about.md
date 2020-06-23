@@ -10,7 +10,7 @@ However, I keep this blog mainly for myself, as a way to log and organise my tho
 
 ### Contact
 
-You can reach me at: **blog "at" cesar.sh**
+You can reach me at: `blog(at)cesar.sh`
 
 ### Disclaimer
 

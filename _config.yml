@@ -8,9 +8,9 @@ paginate:       10
 
 # Contact
 author:
-  name:         César
+  name:         César Ferradas
   url:          https://cesar.sh
-  email:        blog(at)cesar.sh
+  email:        blog@cesar.sh
 
 # Gems
 plugins:
