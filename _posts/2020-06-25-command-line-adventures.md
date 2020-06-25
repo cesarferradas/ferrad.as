@@ -48,7 +48,7 @@ his helpful article on the topic.
 This carried over into my professional life too. I added and improved previous
 shell scripts we used for testing, running migrations and deploying.
 
-## Email, calendar, tasks
+## Communication and scheduling tools
 
 I think this is where I went too far. The company I work for uses Asana for
 project management, Slack for messaging and Google Calendar for... well,
@@ -67,7 +67,7 @@ I quickly reverted back to the 21st century.
 
 ## What I learnt
 
-### The Unix philosophy is awesome
+#### The Unix philosophy is awesome
 
 It just continues to impress me. **Everything** can be piped into **everything
 else**, pretty much.
@@ -76,13 +76,13 @@ Combining different programs (e.g. `grep`, `awk`, `sed`) that do one thing
 extremely well is super powerful. Software engineers should take advantage of
 these tools.
 
-### Vim isn't just for code
+#### Vim is not just for code
 
 Taking notes in Vim is so much faster, tidy and friction-free. If I'm coding
 and have a thought or want to jot a quick to-do, just `:tabe note` it and
 forget it.
 
-### Not everything is better
+#### Not everything is better
 
 I tried to use [`mutt`](http://mutt.org/) and [`aerc`](https://aerc-mail.org/)
 to read and compose email, but it's just not for me. Same goes with
