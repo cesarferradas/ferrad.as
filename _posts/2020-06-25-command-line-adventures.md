@@ -2,9 +2,9 @@
 title: Command line adventures
 ---
 
-I recently decided to try to spend as much time in the command line as possible
-as a learning experience. It turns out you can do **a lot** without leaving the
-shell. But how far is too far?
+I recently experimented with spending as much time as possible in the command
+line. It turns out you can do **a lot** without leaving the shell. But how far
+is too far?
 
 Given that [I use Vim as a code
 editor](https://cesar.sh/blog/2020/05/09/learning-vim-by-deleting-vimrc/), I'm
