@@ -76,7 +76,7 @@ Combining different programs (e.g. `grep`, `awk`, `sed`) that do one thing
 extremely well is super powerful. Software engineers should take advantage of
 these tools.
 
-#### Vim is not just for code
+#### Code is just fancy text
 
 Taking notes in Vim is so much faster, tidy and friction-free. If I'm coding
 and have a thought or want to jot a quick to-do, just `:tabe note` it and
