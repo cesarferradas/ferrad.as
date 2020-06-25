@@ -1,9 +1,7 @@
 # Config
-title:          César's Blog
-tagline:        Computer Science, Startups, Lifestyle
+title:          César Ferradas's Blog
 url:            https://cesar.sh
 baseurl:        /blog
-permalink:      /:title
 paginate:       10
 
 # Contact
