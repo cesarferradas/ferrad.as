@@ -2,11 +2,17 @@
 title: About
 ---
 
-Welcome to my personal blog.
+Welcome to my blog.
 
-I write about things I'm interested in which I also hope can add value to other people. That includes but is not limited to: software, security, minimalism, sustainability, startups and habits.
+I write about things I'm interested in which I also hope can add value to other people. That includes but is not limited to:
 
-However, I keep this blog mainly for myself, as a way to log and organise my thoughts, experiences and learnings. So some of the posts might be completely random and boring.
+* Software Engineering
+* Open-Source Software
+* Cybersecurity and Privacy
+* Productivity tools and habits
+* Minimalism
+* Sustainability
+* Startups
 
 ### Contact
 
