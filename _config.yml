@@ -4,7 +4,6 @@ url:            https://cesar.sh
 baseurl:        /blog
 permalink:      pretty
 paginate:       10
-paginate_path:  /archive/page:num/
 
 # Contact
 author:
