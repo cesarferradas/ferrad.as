@@ -4,7 +4,10 @@ url:            https://cesar.sh
 baseurl:        /blog
 permalink:      pretty
 paginate:       10
-paginate_path:  /archive/page:num/
+paginate_path:  /page:num/
+
+jekyll-archives:
+  enabled:      all
 
 # Contact
 author:
@@ -14,6 +17,7 @@ author:
 
 # Gems
 plugins:
+  - jekyll-archives
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
