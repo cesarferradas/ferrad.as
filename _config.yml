@@ -1,8 +1,10 @@
 # Config
-title:          César Ferradas's Blog
+title:          César's Blog
 url:            https://cesar.sh
 baseurl:        /blog
+permalink:      pretty
 paginate:       10
+paginate_path:  /archive/page:num/
 
 # Contact
 author:
