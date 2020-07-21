@@ -275,7 +275,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -295,16 +295,6 @@ tbody tr:nth-child(odd) th {
   float: right;
   padding-top: 6px;
 }
-
-@media (max-width: 48em) {
-  .masthead-title {
-    text-align: center;
-  }
-  .masthead-title small {
-    display: none;
-  }
-}
-
 
 /*
  * Posts and pages
