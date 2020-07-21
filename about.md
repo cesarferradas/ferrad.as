@@ -16,10 +16,8 @@ I write about things I'm interested in which I also hope can add value to other 
 
 ### Contact
 
-Run this in a shell:
-
 ```shell
-echo blog.cesar.sh | sed 's/\./@/'
+echo blogatcesar.sh | sed 's/at/@/'
 ```
 
 ### Disclaimer
