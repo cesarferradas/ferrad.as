@@ -16,7 +16,11 @@ I write about things I'm interested in which I also hope can add value to other 
 
 ### Contact
 
-You can reach me at: `blog(at)cesar.sh`
+Run this in a shell:
+
+```shell
+echo blog.cesar.sh | sed 's/\./@/'
+```
 
 ### Disclaimer
 
