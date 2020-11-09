@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cesarferradas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cesar.sh
+  * I am cesarferradas (https://keybase.io/cesarferradas) on keybase.
+  * I have a public key ASBeTVTEdOKE964oBI_7qImAjZRo9PUMdArjhOC1s6QMkgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e4d54c474e284f7ae28048ffba889808d9468f4f50c740ae384e0b5b3a40c920a",
+      "host": "keybase.io",
+      "kid": "01205e4d54c474e284f7ae28048ffba889808d9468f4f50c740ae384e0b5b3a40c920a",
+      "uid": "63432094dfa63b610925fd0ef6a1fb19",
+      "username": "cesarferradas"
+    },
+    "merkle_root": {
+      "ctime": 1589531514,
+      "hash": "6f6885bbed0caf1e116311e0ed0d928f68eb3a9482fe6b4be35c207ecadb30a11fc79d75418becad69def5a6df662545dd9304d4b894cb2ddad0c2df7a2681a9",
+      "hash_meta": "b18610cd410c98d819ba40dd3f1ee17be9e3bb900f48b0fc7cda62b548ee3319",
+      "seqno": 16303799
+    },
+    "service": {
+      "entropy": "1yT8lBGWmcPoJ+jLiLa0gtfR",
+      "hostname": "cesar.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1589531519,
+  "expire_in": 504576000,
+  "prev": "34eddf0f21deee91fd98690e34a3eb4fc20e01db3f9b50a912551153ef1d34fc",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXk1UxHTihPeuKASP+6iJgI2UaPT1DHQK44TgtbOkDJIKp3BheWxvYWTESpcCOMQgNO3fDyHe7pH9mGkONKPrT8IOAds/m1CpElURU+8dNPzEIEUDehtbQNaCLJAY9yKT2F/UnvHvYMxK2yHGtQE8yxBqAgHCo3NpZ8RAaf9OVJ+nXPkKknangxTSrBqk/Q3oIgMJn08r102NbyY3Kr0V26v4Dn1nQ/vIVq5BGj7Mw8lU//7xkMoGbU/aAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA+BTRr/QhFqgjwXgTctht4LHd25uI92neUJMi5GL3NKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cesarferradas
+
+==================================================================
