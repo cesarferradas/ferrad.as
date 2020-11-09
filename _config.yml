@@ -1,13 +1,13 @@
 # Config
-title:          César's Blog
+title:          César Ferradas
 url:            https://cesar.sh
-baseurl:        /blog
+baseurl:        ""
 permalink:      pretty
 paginate:       10
 
 # Contact
 author:
-  name:         César Ferradas
+  name:         César
   url:          https://cesar.sh
   email:        blog@cesar.sh
 
