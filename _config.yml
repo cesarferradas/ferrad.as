@@ -2,7 +2,7 @@
 title:          César Ferradas
 url:            https://cesar.sh
 baseurl:        ""
-permalink:      pretty
+permalink:      /:slug
 paginate:       10
 
 # Contact
