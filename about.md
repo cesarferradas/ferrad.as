@@ -16,13 +16,11 @@ I write about things I'm interested in which I also hope can add value to other 
 
 ### Contact
 
-The best way to reach me is via email. I've obscured my email address to dodge harvesting bots, so if you can't infer it from the below command, run it in a Unix-like shell.
+The best way to reach me is via email:
 
 ```shell
 echo blogatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
-```
-
-Otherwise, here are my [LinkedIn](https://www.linkedin.com/in/cesarferradas) and [GitHub](https://github.com/cesarferradas). 
+``` 
 
 ### Disclaimer
 
