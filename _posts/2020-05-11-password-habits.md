@@ -1,7 +1,5 @@
 ---
 title: Password habits
-redirect_from:
-    - /password-habits
 ---
 
 A family member recently got a threatening email which contained the password for their email account.
