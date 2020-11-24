@@ -1,10 +1,10 @@
 ---
 title: About
+layout: page
 ---
 
-Welcome to my blog.
-
-I write about things I'm interested in which I also hope can add value to other people. That includes but is not limited to:
+Welcome to my blog. I write about things I'm interested in which I also hope
+can add value to other people. That includes but is not limited to:
 
 * Software Engineering
 * Cybersecurity and Privacy

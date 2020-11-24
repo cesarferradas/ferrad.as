@@ -1,5 +1,6 @@
 ---
 title: Reading
+layout: page
 ---
 
 Books and articles I have read that have shaped my personal philosophy.

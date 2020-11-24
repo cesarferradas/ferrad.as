@@ -1,8 +1,7 @@
 ---
-layout: default
+title: What I'm doing now
+layout: page
 ---
-
-# What I'm doing now
 
 _(This is my [now page](https://nownownow.com/about). If you have your own
 site, you should make one too)_
@@ -20,3 +19,7 @@ Enjoying learning more about time-tested board games, like Chess, Backgammon
 and Poker. There is a reason why all of these are still around!
 
 Trying to write more, so hopefully you see more articles in my blog soon.
+
+___
+
+_Updated November 2020_
