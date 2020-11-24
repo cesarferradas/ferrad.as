@@ -1,5 +1,6 @@
 ---
 title: Life without social media
+layout: post
 ---
 
 Leaving social media was a very gradual process.

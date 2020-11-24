@@ -1,5 +1,6 @@
 ---
 title: Logging your professional learnings
+layout: post
 ---
 
 Why do we stop taking notes after university? We certainly don't stop learning.

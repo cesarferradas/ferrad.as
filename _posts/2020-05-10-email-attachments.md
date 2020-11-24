@@ -1,5 +1,6 @@
 ---
 title: Securely sending email attachments
+layout: post
 ---
 
 Even if you use [ProtonMail](https://protonmail.com), [Tutanota](https://tutanota.com) or another privacy-focused, end-to-end encrypted email provider, email is insecure by default. It's a protocol invented when the internet was in its early days, and we've moved on a lot since then in terms of online threats.

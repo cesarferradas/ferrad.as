@@ -1,5 +1,6 @@
 ---
 title: Functionality over style
+layout: post
 ---
 
 I've been learning NodeJS recently. As a way to do this, I developed a [URL shortening REST API](https://github.com/cesarferradas/shorturls). Give it a long URL, and it will return a short code that can be shared instead.

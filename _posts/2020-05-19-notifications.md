@@ -1,5 +1,6 @@
 ---
 title: (No)tifications
+layout: post
 ---
 
 Have you ever completely turned off your smartphone's notifications?

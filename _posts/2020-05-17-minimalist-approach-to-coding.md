@@ -1,5 +1,6 @@
 ---
 title: A minimalist approach to coding
+layout: post
 ---
 
 Following on from my [previous post](functionality-over-style), I thought I'd write about how minimalism can be applied to developing good software.

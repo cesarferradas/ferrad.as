@@ -1,5 +1,6 @@
 ---
 title: Privacy-first contact tracing technology
+layout: post
 ---
 
 In order to slow the spread of the Coronavirus while easing the restrictions on our freedom, we're probably going to need a "contact tracing" technology of some sort. 

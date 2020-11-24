@@ -1,5 +1,6 @@
 ---
 title: Listening to music on repeat
+layout: post
 ---
 
 I often listen to a single song on repeat for hours on end while coding or trying to do "deep work". I thought that was just me being weird. It turns out it's actually good for focus.

@@ -1,5 +1,6 @@
 ---
 title: Creating daily
+layout: post
 ---
 
 We spend most of our time outside of work consuming content, not producing it. We consume movies, social media feeds, songs, etc.

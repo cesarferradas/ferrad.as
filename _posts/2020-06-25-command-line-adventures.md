@@ -1,5 +1,6 @@
 ---
 title: Command line adventures
+layout: post
 ---
 
 I recently experimented with spending as much time as possible in the command

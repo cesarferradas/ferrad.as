@@ -1,5 +1,6 @@
 ---
 title: Decision fatigue and how to decide
+layout: post
 ---
 
 We live in a world full of options. Our choices have **hugely** increased since the beginning of the 21st century. With the Internet, smartphones, eCommerce, and virtual assistants becoming ubiquitous in the Western world, we can get and do whatever we want to, whenever we want to.

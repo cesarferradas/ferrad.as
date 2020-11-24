@@ -1,5 +1,6 @@
 ---
 title: How to protect yourself after a data breach
+layout: post
 ---
 
 I posted about the EasyJet data breach yesterday, but realised I didn't provide comprehensive advice regarding what actions to take to safeguard your online identity if you've been involved in the breach.

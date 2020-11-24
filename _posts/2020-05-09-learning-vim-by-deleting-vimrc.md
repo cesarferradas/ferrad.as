@@ -1,5 +1,6 @@
 ---
 title: Learn Vim by deleting your .vimrc
+layout: post
 ---
 
 Vim is a great text editor.

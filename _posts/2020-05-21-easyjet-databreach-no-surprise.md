@@ -1,5 +1,6 @@
 ---
 title: The EasyJet data breach is no surprise
+layout: post
 ---
 
 I just received the email.
