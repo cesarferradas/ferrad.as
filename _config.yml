@@ -9,7 +9,6 @@ paginate:       10
 author:
   name:         César
   url:          https://cesar.sh
-  email:        blog@cesar.sh
 
 # Gems
 plugins:
