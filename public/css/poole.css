@@ -273,27 +273,35 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    1rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
 }
 .masthead-title {
   margin-top: 0;
+  font-weight: 500;
   margin-bottom: 0;
   color: #505050;
 }
 .masthead-title a {
   color: #505050;
 }
-.masthead-title small {
+
+.masthead-title nav {
+  color: #505050;
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
-  letter-spacing: 0;
-}
-.masthead-pages {
   float: right;
-  padding-top: 6px;
+  padding-top: 4px;
+}
+.masthead-title nav a {
+  margin-right: 8px
+}
+@media (max-width: 328px) {
+  .masthead-title nav {
+    width: 100%;
+    padding-bottom: 2em;
+  }
 }
 
 /*
