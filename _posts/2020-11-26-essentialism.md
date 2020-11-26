@@ -1,8 +1,12 @@
 ---
-title: "Book Notes: Essentialism by Greg McKeown"
+title: "Book notes: Essentialism by Greg McKeown"
 category: books
 layout: post
 ---
+
+[Essentialism](https://amzn.to/3l4AeYY) is a book all about focusing on the
+essential and ignoring life's distractions. Here are my brief and unorganised
+notes of what I ressonated with the most.
 
 Read a fiction book for 20 minutes in the morning, before starting to worry
 about the day's professional and personal problems.
@@ -38,9 +42,9 @@ between work and life.
 Say "no" to most things in your life so you can say "yes" to the things that
 most excite you. Some ways to say no:
 
-- I’m currently busy with X, but let’s catch up on Y
+- I'm currently busy with X, but let's catch up on Y
 - Let me check my calendar and get back to you
 - Yes, what should I de-prioritise?
 - You’re welcome to do X, I can do Y
-- I can’t, but [person name] might
+- I can't, but [person name] might
 - Use humour
