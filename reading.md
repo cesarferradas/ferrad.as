@@ -3,20 +3,22 @@ title: Reading
 layout: page
 ---
 
-Books and articles I have read that have shaped my personal philosophy.
+Books and articles I have read that have shaped my personal philosophy. I
+highly recommend them all.
 
-**How to Win Friends and Influence People** by Dale Carnegie
+[How to Win Friends and Influence People](https://amzn.to/2Jle0oc) by Dale Carnegie
 
-**Deep Work** by Cal Newport
+[Deep Work](https://amzn.to/3lj5aFb) by Cal Newport
 
-**Digital Minimalism** by Cal Newport
+[Digital Minimalism](https://amzn.to/3l8hO9S) by Cal Newport
 
-**Essentialism** by Greg McKeown
+[Essentialism](https://amzn.to/3l4AeYY) by Greg McKeown
 
-**Free Will** by Sam Harris
+[Free Will](https://amzn.to/2V6wFqG) by Sam Harris
 
-**Minimalism** by Joshua Millburn and Ryan Nicodemus
+[Minimalism](https://amzn.to/3lcGSfP) by Joshua Millburn and Ryan Nicodemus
 
-**The Moral Landscape** by Sam Harris
+[The Moral Landscape](https://amzn.to/369iqHM) by Sam Harris
 
-**The Power of Habit** by Charles Duhigg, Mike Chamberlain et al
+[The Power of Habit](https://amzn.to/3mcfLCP) by Charles Duhigg, Mike
+Chamberlain et al
