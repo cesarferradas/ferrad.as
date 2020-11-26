@@ -1,12 +1,11 @@
 # General
 title:          César Ferradas
-description:    Software, Cybersecurity, Minimalism, Focus, Finance
+description:    Software Engineering, Minimalism, Self-Improvement
 url:            https://cesar.sh
 baseurl:        ""
 
 # Navigation
 permalink:      /:categories/:slug
-paginate:       10
 
 # Contact
 author:
