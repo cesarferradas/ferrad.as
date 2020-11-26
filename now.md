@@ -3,10 +3,10 @@ title: What I'm doing now
 layout: page
 ---
 
-_(This is my [now page](https://nownownow.com/about). If you have your own
-site, you should make one too)_
+_(This is a [now page](https://nownownow.com/about). If you have your own site,
+you should make one too!)_
 
-Living in London, UK.
+Living in London, United Kingdom.
 
 Working full-time as a Software Engineer, mainly backend, specifically in
 database and API development.
