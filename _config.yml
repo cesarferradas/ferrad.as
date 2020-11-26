@@ -3,7 +3,9 @@ title:          César Ferradas
 description:    Software, Cybersecurity, Minimalism, Focus, Finance
 url:            https://cesar.sh
 baseurl:        ""
-permalink:      /:slug
+
+# Navigation
+permalink:      /:categories/:slug
 paginate:       10
 
 # Contact
