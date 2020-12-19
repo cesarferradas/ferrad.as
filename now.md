@@ -11,15 +11,17 @@ Living in London, United Kingdom.
 Working full-time as a Software Engineer, mainly backend, specifically in
 database and API development.
 
-Have become a regular coffee drinker. Trying to further develop my palate for
-the different coffee varieties, roast levels, origins and so on. My current
-brew method is the AeroPress, although enjoy a good v60 too.
+Improving my appreciation for specialty coffee. Trying different coffee
+varieties, roast levels, origins and so on. I'm currently brewing with the
+v60 and the AeroPress.
 
 Enjoying learning more about time-tested board games, like Chess, Backgammon
 and Poker. There is a reason why all of these are still around!
 
-Trying to write more, so hopefully you see more articles in my blog soon.
+Getting back into running. Experimenting with barefoot running using Vibram
+FiveFingers. Feet and calves are still sore after a light run/walk so taking
+it slow.
 
 ___
 
-_Updated November 2020_
+_Updated December 2020_
