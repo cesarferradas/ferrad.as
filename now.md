@@ -6,22 +6,24 @@ layout: page
 _(This is a [now page](https://nownownow.com/about). If you have your own site,
 you should make one too!)_
 
-Living in London, United Kingdom.
+*Living* in London, UK.
 
-Working full-time as a Software Engineer, mainly backend, specifically in
-database and API development.
+*Working* as a Software Engineer, mainly backend, specifically in database and
+API development.
 
-Improving my appreciation for specialty coffee. Trying different coffee
-varieties, roast levels, origins and so on. I'm currently brewing with the
-v60 and the AeroPress.
+*Eating* vegan since June 2014.
 
-Enjoying learning more about time-tested board games, like Chess, Backgammon
-and Poker. There is a reason why all of these are still around!
+*Drinking* specialty coffee. Trying different coffee origins, roast levels,
+processing and brewing methods. My daily driver is the Hario v60.
 
-Getting back into running. Experimenting with barefoot running using Vibram
-FiveFingers. Feet and calves are still sore after a light run/walk so taking
-it slow.
+*Playing* a lot of chess, both online with strangers and in real life with my
+girlfriend and close friends.
+
+*Learning* how to run with barefoot/minimalist shoes. Focusing on a cadence of
+180 steps per minute and landing with my mid-foot. Still only doing short runs
+to get the leg muscles and tendons used to it. Trying to run twice a week at
+least.
 
 ___
 
-_Updated December 2020_
+_Updated 27 December 2020_
