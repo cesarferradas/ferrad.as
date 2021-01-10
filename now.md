@@ -5,16 +5,19 @@ layout: page
 
 _Living_ in London, UK.
 
-_Working_ as a Software Engineer, mainly backend, specifically in database and
-API development.
+_Working_ as a Software Engineer, mainly backend, specifically in APIs and
+databases.
 
 _Eating_ vegan since June 2014.
 
 _Drinking_ specialty coffee. Trying different coffee origins, roast levels,
-processing and brewing methods. My daily driver is the Hario v60.
+processing and brewing methods. My current brewer of choice is the Hario v60.
 
 _Reading_ [On the Shortness of Life](https://amzn.to/3mLpgZi){:target="_blank"}
 by Seneca
+
+_Writing_ for my blog about minimalism and focused living,
+[Essentialist](https://essentiali.st){:target="_blank"}.
 
 _Playing_ a lot of chess, both online with strangers and in real life with my
 girlfriend and close friends.
@@ -26,4 +29,4 @@ least.
 
 ___
 
-_Updated December 2020_
+_Updated January 2021_
