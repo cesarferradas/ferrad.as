@@ -5,7 +5,7 @@ url:            https://cesar.sh
 baseurl:        ""
 
 # Navigation
-permalink:      /:categories/:slug
+permalink:      /:slug
 
 # Contact
 author:

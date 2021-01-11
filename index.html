@@ -15,3 +15,14 @@ layout: default
   </div>
   {% endfor %}
 </div>
+
+<h1>Most recent articles</h1>
+<div class="posts">
+  {% for post in site.posts | limit:3 %}
+  <div class="post">
+    <h4 class="post-title">
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    </h4>
+  </div>
+  {% endfor %}
+</div>
