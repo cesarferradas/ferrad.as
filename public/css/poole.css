@@ -333,8 +333,8 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   border-top: 1px solid #ccc;
 }
 .related-posts {
@@ -343,6 +343,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .footer {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+  margin: 0px auto;
+  position: relative;
+  text-align: center;
 }
