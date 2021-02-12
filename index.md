@@ -30,8 +30,7 @@ value to other people. That includes but is not limited to:
 * Personal Finance
 * Startups
 
-You can find my posts [here](/blog) on this site, but also over at
-[Essentialist](https://essentiali.st).
+You can find my blog posts [here](/blog).
 
 ## Contact
 
