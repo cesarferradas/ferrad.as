@@ -10,23 +10,18 @@ databases.
 
 _Eating_ vegan since June 2014.
 
-_Drinking_ specialty coffee. Trying different coffee origins, roast levels,
-processing and brewing methods. My current brewer of choice is the Hario v60.
+_Drinking_ specialty coffee. My current brewer of choice is the Hario v60.
 
 _Reading_ [On the Shortness of Life](https://amzn.to/3mLpgZi){:target="_blank"}
 by Seneca
 
-_Writing_ for my blog about minimalism and focused living,
-[Essentialist](https://essentiali.st){:target="_blank"}.
+_Writing_ for this blog (or at least trying to).
 
-_Playing_ a lot of chess, both online with strangers and in real life with my
-girlfriend and close friends.
+_Playing_ a lot of chess.
 
-_Learning_ how to run with barefoot/minimalist shoes. Focusing on a cadence of
-180 steps per minute and landing with my mid-foot. Still only doing short runs
-to get the leg muscles and tendons used to it. Trying to run twice a week at
-least.
+_Learning_ how to run in barefoot shoes. Focusing on a cadence of 180 steps
+per minute and landing on my mid-foot.
 
 ___
 
-_Updated January 2021_
+_Updated February 2021_
