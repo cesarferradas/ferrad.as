@@ -341,3 +341,8 @@ tbody tr:nth-child(odd) th {
   padding-left: 0.5rem;
   list-style: none;
 }
+
+.footer {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
