@@ -5,7 +5,7 @@ title: ""
 
 ## About
 
-Hi, my name is **César**.
+Hi, my name is César.
 
 I'm a software engineer focused on building lean, robust and elegant systems
 for startups. I'm a generalist at heart so I love working with different
@@ -19,10 +19,11 @@ If you want to know what I'm up to currently, read my [now page](/now).
 
 ## Contact
 
-The best way to reach me is via email. Run this command in a Unix-like shell:
+The best way to reach me is via email. To get my email address, run this shell
+command (or figure it out, trying to avoid spam bots!).
 
 ```shell
-echo wwwatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
+echo contactatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
 ```
 
 ## Blog
