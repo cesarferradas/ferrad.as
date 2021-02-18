@@ -1,12 +1,11 @@
 ---
-title: "Book notes: Essentialism by Greg McKeown"
-category: books
+title: "Book notes: Essentialism"
 layout: post
 ---
 
-[Essentialism](https://amzn.to/3l4AeYY) is a book all about focusing on the
-essential and ignoring life's distractions. Here are my brief and unorganised
-notes of what I ressonated with the most.
+[Essentialism](https://amzn.to/3l4AeYY) by Greg McKeown is a book all about
+focusing on the essential and ignoring life's distractions. Here are my brief
+and unorganised notes of what I ressonated with the most.
 
 Read a fiction book for 20 minutes in the morning, before starting to worry
 about the day's professional and personal problems.

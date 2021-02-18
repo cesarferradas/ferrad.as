@@ -1,6 +1,5 @@
 ---
-title: "Book notes: How to Win Friends and Influence People by Dale Carnegie"
-category: books
+title: "Book notes: How to Win Friends and Influence People"
 layout: post
 ---
 
