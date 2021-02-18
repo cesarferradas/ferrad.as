@@ -15,7 +15,15 @@ frameworks.
 For more details about my professional experience, here's my
 [LinkedIn](https://linkedin.com/in/cesarferradas).
 
-If you want to know what I'm up to at the moment, read my [now page](/now).
+If you want to know what I'm up to currently, read my [now page](/now).
+
+## Contact
+
+The best way to reach me is via email. Run this command in a Unix-like shell:
+
+```shell
+echo wwwatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
+```
 
 ## Blog
 
@@ -31,16 +39,3 @@ value to other people. That includes but is not limited to:
 * Startups
 
 You can find my blog posts [here](/blog).
-
-## Contact
-
-The best way to reach me is via email. Run this command in a Unix-like shell:
-
-```shell
-echo wwwatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
-``` 
-
-## Disclaimer
-
-The opinions expressed on this site are my own and may not reflect those of my
-employer, colleagues, friends or anyone else.
