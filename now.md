@@ -1,6 +1,7 @@
 ---
 title: What I'm doing now
 layout: page
+last_modified_at: 2021-02-18
 ---
 
 _Living_ in London, UK.
@@ -15,7 +16,3 @@ _Playing_ a lot of chess.
 _Writing_ for this blog (or at least trying to).
 
 _Drinking_ specialty coffee. My current brewer of choice is the Hario v60.
-
-___
-
-_Updated February 2021_

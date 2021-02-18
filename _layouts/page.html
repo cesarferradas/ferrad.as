@@ -6,5 +6,9 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   <div class="page-content">
     {{ content }}
+    {% if page.last_modified_at %}
+    <hr>
+    Updated {{ page.last_modified_at | date: '%B %Y' }}
+    {% endif %}
   </div>
 </div>
