@@ -9,7 +9,6 @@ layout: default
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
     </h1>
-    <span class="post-date">{{ post.date | date_to_long_string }}</span>
     <div class="post-excerpt">
       {{ post.excerpt }}
     </div>
