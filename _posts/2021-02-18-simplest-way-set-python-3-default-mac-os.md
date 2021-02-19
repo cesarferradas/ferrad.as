@@ -43,7 +43,7 @@ unlink /usr/local/bin/python
 ln -s /usr/local/bin/python3 /usr/local/bin/python
 ```
 
-And that's it! Happy coding!
+Now restart your shell, and you should be good to go. Happy coding!
 
 #### But what about pip?
 
