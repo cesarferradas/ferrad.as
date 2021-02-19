@@ -14,7 +14,7 @@ Do this via Homebrew, it's the easiest.
 brew install python@3
 ```
 
-## 2. Add /usr/local/bin to your path
+## 2. Add /usr/local/bin to your path
 
 Homebrew will add `python3` as an executable in `/usr/local/bin`. Add this
 directory to your path by running one of the following commands (depending on
