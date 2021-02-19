@@ -6,7 +6,7 @@ title: Simplest way to make Python 3 the default on Mac OS
 On a fresh Mac OS computer, the default is Python 2. Not ideal. Here I show you
 the quickest and simplest way to make the default version Python 3.
 
-## 1. Install Python 3
+### 1. Install Python 3
 
 Do this via Homebrew, it's the easiest.
 
@@ -14,7 +14,7 @@ Do this via Homebrew, it's the easiest.
 brew install python@3
 ```
 
-## 2. Add /usr/local/bin to your path
+### 2. Add /usr/local/bin to your path
 
 Homebrew will add `python3` as an executable in `/usr/local/bin`. Add this
 directory to your path by running one of the following commands (depending on
@@ -25,7 +25,7 @@ echo 'export PATH=/usr/local/bin:$PATH' > ~/.bashrc
 echo 'export PATH=/usr/local/bin:$PATH' > ~/.zshrc
 ```
 
-## 3. Symlink python3 to python
+### 3. Symlink python3 to python
 
 Currently the `python` executable is actually Python 2. Try it:
 
@@ -43,10 +43,9 @@ unlink /usr/local/bin/python
 ln -s /usr/local/bin/python3 /usr/local/bin/python
 ```
 
-And that's it!
+And that's it! Happy coding!
 
-
-### What about pip?
+#### But what about pip?
 
 If you've previously installed [`pip`](https://pypi.org/project/pip/) using an
 old version of Python, you should re-install it using the `python` executable
