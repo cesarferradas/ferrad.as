@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Simplest way to make Python 3 the default on Mac OS
+title: Simplest way to make Python 3 the default on MacOS
 ---
 
-On a fresh Mac OS computer, the default is Python 2. Not ideal. Here I show you
-the quickest and simplest way to make the default version Python 3.
+On a fresh MacOS install, Python defaults to version 2. Not ideal. Here I show
+you the quickest way to make the default Python 3.
 
 ### 1. Install Python 3
 
