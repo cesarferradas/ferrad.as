@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to lint Python files using git pre-commit hooks
+title: How to lint code using git hooks
 ---
 
 A fast and effective way to avoid unlinted code from sneaking into version
@@ -36,7 +36,7 @@ You can tell git to run certain scripts at various stages of your git flow. The
 repo.
 
 You can use this feature to run linting before committing any files. Let's use
-`flake8` for this example.
+Python and `flake8` for this example.
 
 First, create a `.git/hooks/pre-commit` file and make it executable:
 
@@ -69,7 +69,7 @@ committing often (which you probably should).
 Instead, the script narrows down the files that we need to lint as much as
 possible. It first only looks at the files that have been changed and will be
 committed (using `git diff --cached --name-only`). Then it excludes any
-non-python files (using `grep .py`).
+non-Python files (using `grep .py`).
 
 The result is you only run linting on what's exactly necessary to prevent dirty
 commits.
