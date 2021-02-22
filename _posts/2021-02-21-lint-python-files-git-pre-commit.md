@@ -6,7 +6,7 @@ title: How to lint Python files using git pre-commit hooks
 A fast and effective way to avoid unlinted code from sneaking into version
 control.
 
-## The problem
+## The problem
 
 I'm sure every developer can relate with this:
 
