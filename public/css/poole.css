@@ -349,5 +349,5 @@ tbody tr:nth-child(odd) th {
 }
 
 .anchorjs-link {
-  text-decoration: none;
+  text-decoration: none !important;
 }
