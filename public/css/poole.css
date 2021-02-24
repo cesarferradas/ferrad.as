@@ -347,3 +347,7 @@ tbody tr:nth-child(odd) th {
   margin: 0px auto;
   padding-bottom: 2rem;
 }
+
+.anchorjs-link {
+  text-decoration: none;
+}
