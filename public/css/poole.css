@@ -22,11 +22,6 @@ html {
   font-size: 16px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
-  html {
-    font-size: 18px;
-  }
-}
 body {
   color: #505050;
   background-color: #fff;
@@ -240,7 +235,7 @@ tbody tr:nth-child(odd) th {
  * Center the page content.
  */
 .container {
-  max-width: 38rem;
+  max-width: 500px;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
