@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Personal finance advice I wish I knew earlier
-hidden: true
 ---
 
-When it comes to saving and investing for later in life, time is of the
-essence. The earlier you invest, the more time compound interest has to do its
-magic. These are tips I wish I knew when I first started earning a salary.
+When it comes to saving and investing for later in life, the earlier the
+better. Here are some things I wish I knew when I first started earning a
+salary.
 
 _Disclaimer: I am not a financial advisor. I cannot provide financial advice to
 you, this is purely for educational purposes. If you need financial advice,
@@ -24,13 +23,13 @@ aggressive fund. This usually means 100% equities, no bonds.
 
 If you're auto-enrolled with NEST as most people are, their most aggressive
 option is the Sharia Fund, which is 100% equities. Have a look at its recent
-performance compared to all other NEST funds[1](#1):
+performance compared to all other NEST funds<sup>[1](#1)</sup>:
 
 ![Nest fund comparison](/public/img/nest.png)
 
 [Source](https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html)
 
-### Investing is not scary
+### Investing is not scary
 
 One of the reasons I put off investing in stocks and shares for a while was
 because I was scared to put money somewhere I didn't fully understand. With a
@@ -92,6 +91,8 @@ It's not worth locking up your money for any period of time to get the interest
 rates currently out there. Instead, _keep your emergency fund in your current
 account, and invest the rest._
 
-**Notes**
 
-(1) Past performance does not predict future results.
+**Notes**
+<small>
+<span id="1">[1] Past performance does not predict future results.</span>
+</small>
