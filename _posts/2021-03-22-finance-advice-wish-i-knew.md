@@ -8,9 +8,8 @@ better. Here are some things I wish I knew when I first started earning a
 salary.
 
 _Disclaimer: I am not a financial advisor. I cannot provide financial advice to
-you, this is purely for educational purposes. If you need financial advice,
-make sure you seek the help of a qualified professional. When you invest, your
-capital is at risk._
+you, this is purely for educational purposes. When you invest, your capital is
+at risk._
 
 ### Be more aggressive with your pension
 
@@ -23,11 +22,11 @@ aggressive fund. This usually means 100% equities, no bonds.
 
 If you're auto-enrolled with NEST as most people are, their most aggressive
 option is the Sharia Fund, which is 100% equities. Have a look at its recent
-performance compared to all other NEST funds<sup>[1](#1)</sup>:
+performance compared to all other NEST funds <sup>[1](#1)</sup>:
 
 ![Nest fund comparison](/public/img/nest.png)
 
-[Source](https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html)
+<small>(past performance is not a reliable indicator of future results)</small>
 
 ### Investing is not scary
 
@@ -94,6 +93,8 @@ account, and invest the rest._
 
 **Notes**
 
-<small>
-<span id="1">[1] Past performance does not predict future results.</span>
-</small>
+<ol>
+  <li id="1">
+    <a href="https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html">Source</a>
+  </li>
+</ol>
