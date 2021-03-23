@@ -18,15 +18,15 @@ pension is to move to a higher risk fund.
 
 For most workplace pensions, the default fund is very moderate, but in your 20s
 you can handle the volatility of the stock market, so move to the most
-aggressive fund. This usually means 100% equities, no bonds.
+aggressive fund. This usually means more equities, fewer bonds.
 
 If you're auto-enrolled with NEST as most people are, their most aggressive
 option is the Sharia Fund, which is 100% equities. Have a look at its recent
-performance compared to all other NEST funds <sup>[1](#1)</sup>:
+performance compared to all other NEST funds [[1](#1)]:
 
 ![Nest fund comparison](/public/img/nest.png)
 
-<small>(past performance is not a reliable indicator of future results)</small>
+_(past performance is not a reliable indicator of future results)_
 
 ### Investing is not scary
 
@@ -93,8 +93,4 @@ account, and invest the rest._
 
 **Notes**
 
-<ol>
-  <li id="1">
-    <a href="https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html">Source</a>
-  </li>
-</ol>
+[1] Graph from NEST's Q4 2020 Investment Report found [here](https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html)
