@@ -25,6 +25,7 @@ echo contactatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
 
 ## Recent posts
 
+<br/>
 <ul class="related-posts">
 {% for post in site.posts limit:3 %}
   <li>
@@ -34,5 +35,3 @@ echo contactatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
   </li>
 {% endfor %}
 </ul>
-
-See all my blog posts [here](/blog).
