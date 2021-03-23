@@ -279,25 +279,16 @@ tbody tr:nth-child(odd) th {
   color: #000 !important;
 }
 
-/*
- * Posts and pages
- *
- * Each post is wrapped in `.post` and is used on default and post layouts. Each
- * page is wrapped in `.page` and is only used on the page layout.
- */
 .page,
 .post {
   margin-bottom: 3em;
-}
-
-.posts .post {
-  margin-bottom: 2em;
 }
 
 .posts {
   padding-left: 0.5rem;
   list-style: none;
   text-decoration: none;
+  margin-bottom: 1em;
 }
 
 .posts a {
