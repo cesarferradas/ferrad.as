@@ -22,7 +22,7 @@ aggressive fund. This usually means more equities, fewer bonds.
 
 If you're auto-enrolled with NEST as most people are, their most aggressive
 option is the Sharia Fund, which is 100% equities. Have a look at its recent
-performance compared to all other NEST funds [[1](#1)]:
+performance compared to all other NEST funds [1]:
 
 ![Nest fund comparison](/public/img/nest.png)
 
