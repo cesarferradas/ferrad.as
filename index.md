@@ -25,12 +25,14 @@ echo contactatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
 
 ## Recent posts
 
-<ul class="related-posts">
-{% for post in site.posts limit:3 %}
+<ul class="posts">
+{% for post in site.posts limit:5 %}
   <li>
-  <h4>
-    <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none">{{ post.title }}</a>
-  </h4>
+    <h4>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h4>
   </li>
 {% endfor %}
 </ul>
