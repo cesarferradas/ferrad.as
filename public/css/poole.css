@@ -300,6 +300,14 @@ tbody tr:nth-child(odd) th {
   text-decoration: none;
 }
 
+.posts a {
+  text-decoration: none;
+}
+
+.posts a:hover {
+  text-decoration: underline;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
