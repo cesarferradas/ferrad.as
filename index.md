@@ -25,7 +25,6 @@ echo contactatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
 
 ## Recent posts
 
-<br/>
 <ul class="related-posts">
 {% for post in site.posts limit:3 %}
   <li>
