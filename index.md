@@ -22,17 +22,3 @@ command (or figure it out, trying to avoid spam bots!):
 ```shell
 echo contactatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
 ```
-
-## Recent posts
-
-<ul class="posts">
-{% for post in site.posts limit:5 %}
-  <li>
-    <h4>
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h4>
-  </li>
-{% endfor %}
-</ul>

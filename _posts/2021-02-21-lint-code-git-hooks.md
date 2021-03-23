@@ -27,7 +27,7 @@ Then you committed to your branch. Now you have a commit with unclean (if not
 buggy) code. Ideally all commits that get to your main branch should be
 deployable, and this one might not be.
 
-# The solution
+## The solution
 
 How do you avoid this? Enter git pre-commit hooks.
 
