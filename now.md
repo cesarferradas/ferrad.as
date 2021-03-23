@@ -4,7 +4,7 @@ layout: page
 last_modified_at: 2021-02-18
 ---
 
-_Living_ in London, UK.
+_Living_ in London, United Kingdom.
 
 _Working_ as a Software Engineer, mainly backend, specifically in APIs and
 databases.
