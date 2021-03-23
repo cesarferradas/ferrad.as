@@ -23,14 +23,16 @@ command (or figure it out, trying to avoid spam bots!):
 echo contactatcesardotsh | sed 's/at/@/' | sed 's/dot/./'
 ```
 
-## Recent blog posts
+## Recent posts
 
 <ul class="related-posts">
 {% for post in site.posts limit:3 %}
   <li>
   <h4>
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none">{{ post.title }}</a>
   </h4>
   </li>
 {% endfor %}
 </ul>
+
+See all my blog posts [here](/blog).
