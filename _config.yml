@@ -10,7 +10,10 @@ permalink:      /:slug
 # Contact
 author:
   name:         César
-  url:          https://cesar.sh
+  website:      https://cesar.sh
+  twitter:      https://twitter.com/cesardotsh
+  linkedin:     https://www.linkedin.com/in/cesarferradas
+  medium:       https://medium.com/@cesarferradas
 
 # Gems
 plugins:
