@@ -3,8 +3,6 @@ title: Contact
 layout: page
 ---
 
-## Contact
-
 The best way to reach me is via email. To get my email address, run this shell
 command (or figure it out, trying to avoid spam bots!):
 
