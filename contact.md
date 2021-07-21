@@ -12,5 +12,5 @@ echo contact-at-cesar.sh | sed 's/-at-/@/'
 
 ## Links
 
-I'm sometimes active on [Twitter](https://twitter.com/cesardotsh), and here's
-my [LinkedIn](https://www.linkedin.com/in/cesarferradas/).
+I'm sometimes active on [Twitter]({{ site.author.twitter }}), and here's
+my [LinkedIn]({{ site.author.linkedin }}).

@@ -10,6 +10,4 @@ for startups. I'm a generalist at heart so I love working with different
 technologies and have built systems in various languages, with and without
 frameworks.
 
-For more details about my professional experience, visit my
-[LinkedIn]({{ site.author.linkedin }}) profile. If you want to know
-what I'm up to at the moment, go to my [now page](/now).
+See [what I'm doing now](/now).
