@@ -11,5 +11,5 @@ technologies and have built systems in various languages, with and without
 frameworks.
 
 For more details about my professional experience, visit my
-[LinkedIn](https://linkedin.com/in/cesarferradas) profile. If you want to know
+[LinkedIn]({{ site.author.linkedin }}) profile. If you want to know
 what I'm up to at the moment, go to my [now page](/now).
