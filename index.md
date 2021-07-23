@@ -10,18 +10,13 @@ challenges are, which call for creative solutions.
 I'm a generalist at heart so I love working with different technologies and
 have built systems in various languages, with and without frameworks.
 
-When open-source tools are missing something that I think would be useful, I
-try to contribute to their development like with
+I try to contribute to open-source tools I use, like
 [Flasgger](https://github.com/flasgger/flasgger/pull/340),
-[Python RQ](https://github.com/rq/rq/pull/1514) and [Tofu
-Auth](https://github.com/calleluks/Tofu/pull/44).
+[Python RQ](https://github.com/rq/rq/pull/1514) and
+[Tofu Auth](https://github.com/calleluks/Tofu/pull/44).
 
 I studied Computer Science with a minor in Entrepreneurship at University
-College London, but I've learnt the most about building good quality systems
-from actually trying to code stuff!
+College London.
 
-See [what I'm doing now](/now).
-
-Read [my articles]({{ site.author.medium }}).
-
-Find me on [twitter]({{ site.author.twitter }})
+See [what I'm doing now](/now). Read [my articles]({{ site.author.medium }}).
+Find me on [Twitter]({{ site.author.twitter }}).
