@@ -1,16 +1,15 @@
 ---
 title: What I'm doing now
 layout: page
-last_modified_at: 2021-07-31
+last_modified_at: 2021-09-01
 ---
 
-_Living_ in London, United Kingdom.
+_Living_ in London, UK.
 
-_Building_ the backend infrastructure of [Heron Data](https://herondata.io).
+_Building_ the backend of [Heron Data](https://herondata.io).
 
-_Cycling_ as my mode of transport. Recently bought a Brompton folding bike and
-I've greatly enjoyed riding it.
+_Learning_ to speak Bulgarian.
 
-_Writing_ about building software on my [blog]({{ site.author.medium }}).
+_Cycling_ as my mode of transport.
 
-_Learning_ Bulgarian.
+_Writing_ on my [blog]({{ site.author.medium }}).
