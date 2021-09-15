@@ -8,7 +8,7 @@ _Living_ in London, UK.
 
 _Building_ the backend of [Heron Data](https://herondata.io).
 
-_Learning_ to speak Bulgarian. Казвам се Цезар!
+_Learning_ Bulgarian. Казвам се Цезар!
 
 _Cycling_ as my mode of transport.
 
