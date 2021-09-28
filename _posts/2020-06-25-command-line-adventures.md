@@ -8,7 +8,7 @@ line. It turns out you can do **a lot** without leaving the shell. But how far
 is too far?
 
 Given that [I use Vim as a code
-editor](https://cesar.sh/blog/2020/05/09/learning-vim-by-deleting-vimrc/), I'm
+editor](/blog/2020/05/09/learning-vim-by-deleting-vimrc/), I'm
 already quite comfortable with spending a lot of my working hours looking at a
 terminal. I tend to work with split pane views in [iTerm](https://iterm2.com/)
 where I code, run tests, use version control, among other things.
