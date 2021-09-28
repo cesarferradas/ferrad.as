@@ -1,7 +1,7 @@
 # General
 title:          César Ferradas
 description:    Software Engineering, Startups, Minimalism, Finance
-url:            https://cesar.sh
+url:            https://ferrad.as
 baseurl:        ""
 
 # Navigation
@@ -10,7 +10,7 @@ permalink:      /:slug
 # Contact
 author:
   name:         César
-  website:      https://cesar.sh
+  website:      https://ferrad.as
   twitter:      https://twitter.com/cesardotsh
   linkedin:     https://www.linkedin.com/in/cesarferradas
   medium:       https://medium.com/@cesarferradas
