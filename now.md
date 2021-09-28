@@ -12,4 +12,4 @@ _Learning_ Bulgarian. Казвам се Цезар!
 
 _Cycling_ as my mode of transport.
 
-_Writing_ on my [blog]({{ site.author.medium }}).
+_Writing_ on my [blog](/blog).

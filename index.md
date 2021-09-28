@@ -24,5 +24,5 @@ College London.
 My other interests include language-learning, chess, coffee, minimalism and
 financial independence.
 
-See [what I'm doing now](/now). Read [my articles]({{ site.author.medium }}).
-Find me on [Twitter]({{ site.author.twitter }}).
+See [what I'm doing now](/now). Read [my articles](/blog). Find me on
+[Twitter]({{ site.author.twitter }}).
