@@ -9,4 +9,9 @@ The best way to reach me is via email:
 echo c-at-ferrad.as | sed 's/-at-/@/'
 ```
 
-Here's my [LinkedIn]({{ site.author.linkedin }}).
+Here's my:
+
+- [AngelList]({{ site.author.angel }})
+- [GitHub]({{ site.author.github }})
+- [LinkedIn]({{ site.author.linkedin }})
+- [Twitter]({{ site.author.twitter }})

@@ -11,7 +11,10 @@ permalink:      /:slug
 author:
   name:         César
   website:      https://ferrad.as
+  angel:        https://angel.co/cesarferradas
+  github:       https://github.com/cesarferradas
   linkedin:     https://www.linkedin.com/in/cesarferradas
+  twitter:      https://twitter.com/cesardotsh
 
 # Gems
 plugins:
