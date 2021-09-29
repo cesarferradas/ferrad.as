@@ -9,7 +9,7 @@ The best way to reach me is via email:
 echo c-at-ferrad.as | sed 's/-at-/@/'
 ```
 
-Here's my:
+But I'm also on:
 
 - [AngelList]({{ site.author.angel }})
 - [GitHub]({{ site.author.github }})
