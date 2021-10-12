@@ -5,8 +5,6 @@ title: ""
 
 Hi there, I'm César 👋
 
-I'm a resourceful and curious Software Engineer.
-
 I enjoy building software for early-stage companies. I find that's where the
 most interesting technical challenges are, which call for creative solutions.
 
