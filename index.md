@@ -19,7 +19,7 @@ have contributed to
 [Tofu Auth](https://github.com/calleluks/Tofu/pull/44){:target="_blank"}.
 
 I studied Computer Science with a minor in Entrepreneurship at
-[UCL](https://www.ucl.ac.uk/){:target="_blank"}..
+[UCL](https://www.ucl.ac.uk/){:target="_blank"}.
 
 My other interests include language-learning, chess, coffee, minimalism and
 financial independence.
