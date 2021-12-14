@@ -14,4 +14,3 @@ But I'm also on:
 - [AngelList]({{ site.author.angel }})
 - [GitHub]({{ site.author.github }})
 - [LinkedIn]({{ site.author.linkedin }})
-- [Twitter]({{ site.author.twitter }})
