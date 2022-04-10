@@ -7,6 +7,9 @@ layout: default
   {% if page.last_modified_at %}
     <span class="date">
     updated {{ page.last_modified_at | date: '%B %Y' }}
+    {% if page.location %}
+    from {{ page.location }}
+    {% endif %}
     </span>
   {% endif %}
   <div class="page-content">

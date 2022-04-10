@@ -4,6 +4,7 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <span class="date">{{ page.date | date_to_long_string }}</span>
   <div class="post-content">
     {{ content }}
   </div>
