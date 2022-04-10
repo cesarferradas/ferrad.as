@@ -5,12 +5,8 @@ layout: page
 
 The best way to reach me is via email:
 
-```shell
-echo c-at-ferrad.as | sed 's/-at-/@/'
+```
+c "at" ferrad.as
 ```
 
-But I'm also on:
-
-- [AngelList]({{ site.author.angel }})
-- [GitHub]({{ site.author.github }})
-- [LinkedIn]({{ site.author.linkedin }})
+I'm also on: [GitHub]({{ site.author.github }}) and [LinkedIn]({{ site.author.linkedin }})
