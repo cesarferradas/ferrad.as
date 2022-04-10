@@ -1,15 +1,24 @@
 ---
 title: What I'm doing now
 layout: page
-last_modified_at: 2021-11-03
+last_modified_at: 2022-04-10
+location: London, UK
 ---
 
-_Living_ in London, UK.
+### Work
+Building the software and infrastructure of [Heron
+Data](https://www.herondata.io). As first employee, I'm learning a lot about
+how to build companies at the very early stages.
 
-_Building_ [Heron Data](https://www.herondata.io).
+### Bulgarian
+Learning Bulgarian at least 1 hour per week, but I aim for more. Striving for
+conversational fluency. Казвам се Цезар!
 
-_Learning_ Bulgarian. Казвам се Цезар!
+### Cycling
+I bought a Brompton folding bicycle last year, and ever since I use it as my
+main way of getting around London. 90% of the time, cycling somewhere is the
+fastest way. 100% of the times it's the healthiest way.
 
-_Cycling_ everywhere.
-
-_Writing_ on my [blog](/blog).
+### Reading
+Focusing on books about how to build and run successful and sustainable
+companies.

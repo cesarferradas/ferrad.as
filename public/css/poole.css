@@ -311,6 +311,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title {
   margin-top: 0;
+  padding-bottom: 4px;
 }
 
 .date {
