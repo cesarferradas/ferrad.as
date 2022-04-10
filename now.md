@@ -17,7 +17,7 @@ conversational fluency. Казвам се Цезар!
 ### Cycling
 I bought a Brompton folding bicycle last year, and ever since I use it as my
 main way of getting around London. 90% of the time, cycling somewhere is the
-fastest way. 100% of the times it's the healthiest way.
+fastest way. 100% of the time it's the healthiest way.
 
 ### Reading
 Focusing on books about how to build and run successful and sustainable
