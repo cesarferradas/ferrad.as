@@ -8,35 +8,31 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/public/favicon-32x32.png' | absolute_url }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ '/public/favicon-16x16.png' | absolute_url }}">
     <link rel="manifest" href="{{ '/public/site.webmanifest' | absolute_url }}">
-    <link rel="stylesheet" href="{{ '/public/css/poole.css' | absolute_url }}">
-    <link rel="stylesheet" href="{{ '/public/css/syntax.css' | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/public/css/simple.min.css' | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/public/css/custom.css' | absolute_url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed.xml' | absolute_url }}">
   </head>
   <body>
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a class="site-title" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <nav>
-              <a href="{{ '/' | absolute_url }}">About</a>
-              <a href="{{ '/blog' | absolute_url }}">Blog</a>
-              <a href="{{ '/contact' | absolute_url }}">Contact</a>
-              <a href="{{ '/now' | absolute_url }}">Now</a>
-            </nav>
-          </h3>
-        </div>
-      </div>
-      <div class="container content">
-        {{ content }}
-        <footer class="footer">
-          <small>
-            Content is <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA</a>.
-            <a href="{{ site.github.repository_url }}" target="_blank">Code</a> is <a href="{{ '/LICENSE.txt' | absolute_url }}">MIT</a>.
-          </small>
-        </footer>
-      </div>
-    </div>
+    <header>
+      <h2>
+        {{ site.title }}
+        <nav>
+          <a href="{{ '/' | absolute_url }}">About</a>
+          <a href="{{ '/blog' | absolute_url }}">Blog</a>
+          <a href="{{ '/contact' | absolute_url }}">Contact</a>
+          <a href="{{ '/now' | absolute_url }}">Now</a>
+        </nav>
+      </h2>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <small>
+        Content is <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA</a>.
+        <a href="{{ site.github.repository_url }}" target="_blank">Code</a> is <a href="{{ '/LICENSE.txt' | absolute_url }}">MIT</a>.
+      </small>
+    </footer>
     <script src="{{ '/public/js/anchor.min.js' | absolute_url }}"></script>
     <script>
       anchors.add('.post h2, .post h3, .post h4');
