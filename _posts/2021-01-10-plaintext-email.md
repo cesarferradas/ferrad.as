@@ -67,4 +67,4 @@ Plain text email, on the other hand, is very easy to read by screen readers. Aft
 
 ## Next steps
 
-Go to [useplaintext.email](https://useplaintext.email) for further information about how to start living the plain text life! If you want to discuss this topic, [send me a plain text email](/#contact) ;)
+Go to [useplaintext.email](https://useplaintext.email) for further information about how to start living the plain text life! If you want to discuss this topic, [send me a plain text email](/contact) ;)
