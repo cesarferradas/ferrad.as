@@ -39,3 +39,8 @@ a {
     text-decoration: none;
   }
 }
+
+nav a, nav a:visited {
+  border: none;
+  text-decoration: none;
+}
