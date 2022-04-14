@@ -3,8 +3,11 @@ title: Blog
 layout: default
 ---
 
+# Blog
+
 {% for post in site.posts %}
-<h4>
+<h5>
+  <span>{{ post.date | date_to_string }}</span>
   <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-</h4>
+</h5>
 {% endfor %}
