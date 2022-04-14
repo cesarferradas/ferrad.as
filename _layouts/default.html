@@ -28,11 +28,12 @@
       {{ content }}
     </main>
     <footer>
-      <small>
-        <a href="{{ '/feed.xml' | absolute_url }}">Feed</a> |
-        <a href="{{ site.github.repository_url }}" target="_blank">Code</a> |
-        <a href="{{ '/LICENSE.txt' | absolute_url }}">License</a>
-      </small>
+      © {{ 'now' | date: "%Y" }} {{ site.title }}. The
+      <a href="{{ site.github.repository_url }}" target="_blank">
+        code
+      </a>
+      for this site
+      <a href="{{ '/LICENSE.txt' | absolute_url }}">MIT</a>.
     </footer>
     <script src="{{ '/public/js/anchor.min.js' | absolute_url }}"></script>
     <script>
