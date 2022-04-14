@@ -74,5 +74,5 @@ non-Python files (using `grep .py`).
 The result is you only run linting on what's exactly necessary to prevent dirty
 commits.
 
-Hope this little script helps you. If it did or you have any feedback, [let me
-know](/contact).
+Hope this little script helps you. If it did or you have any feedback, let me
+know.

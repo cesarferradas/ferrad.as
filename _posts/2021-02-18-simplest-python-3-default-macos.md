@@ -61,5 +61,3 @@ python get-pip.py
 ```
 
 Then you can re-install any packages that you installed globally again.
-
-Any questions? Feel free to [reach out](/contact).

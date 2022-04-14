@@ -22,5 +22,3 @@ Let's take this as an opportunity to reflect and be proactive about online secur
 EasyJet isn't only a low budget airline company. It's an online company. Once you decide to build a website for your business, that's what you become. EasyJet is responsible for excelling at **both** travel **and** website development. They owe that to their customers. They, and others, have no excuse to use outdated, insecure software and practices.
 
 _With great data comes great responsibility._
-
-#privacy #security
