@@ -10,28 +10,17 @@
   --magenta: #d33682;
   --cyan: #2aa198;
 
-  /* Light theme */
-  --bg: var(--base3);
-  --accent-bg: var(--base2);
-  --text: var(--base03);
-  --text-light: var(--base02);
+  /* Theme */
+  --bg: var(--base02);
+  --accent-bg: var(--base03);
+  --text: var(--base2);
+  --text-light: var(--base3);
+  --preformatted: var(--base2);
   --border: var(--base1);
   --accent: var(--cyan);
   --code: var(--magenta);
-  --preformatted: var(--base02);
   --marked: var(--cyan);
   --disabled: var(--base1);
-}
-
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: var(--base02);
-    --accent-bg: var(--base03);
-    --text: var(--base3);
-    --text-light: var(--base2);
-    --preformatted: var(--base2);
-  }
 }
 
 a {
@@ -50,5 +39,5 @@ nav a, nav a:visited {
 }
 
 mark {
-  color: var(--bg);
+  color: var(--text-light);
 }
