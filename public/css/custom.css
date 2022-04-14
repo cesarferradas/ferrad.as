@@ -1,28 +1,3 @@
-:root {
-  /* Solarized colours */
-  --base03: #002b36;
-  --base02: #073642;
-  --base01: #586e75;
-  --base00: #657b83;
-  --base1: #93a1a1;
-  --base2: #eee8d5;
-  --base3: #fdf6e3;
-  --magenta: #d33682;
-  --cyan: #2aa198;
-
-  /* Theme */
-  --bg: var(--base02);
-  --accent-bg: var(--base03);
-  --text: var(--base2);
-  --text-light: var(--base3);
-  --preformatted: var(--base2);
-  --border: var(--base1);
-  --accent: var(--cyan);
-  --code: var(--magenta);
-  --marked: var(--cyan);
-  --disabled: var(--base1);
-}
-
 a {
   text-decoration: none;
 }
@@ -36,8 +11,4 @@ a {
 nav a, nav a:visited {
   border: none;
   text-decoration: none;
-}
-
-mark {
-  color: var(--text-light);
 }
