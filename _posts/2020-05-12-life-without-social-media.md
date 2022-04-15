@@ -53,6 +53,5 @@ Even though calling or physically spending time with friends is **much** better 
 
 It's also harder to share stuff. I shared a link to this blog on my LinkedIn (which I only use for professional reasons, and I don't have the app on my phone). It got a few likes. It's nothing like sharing on Facebook or Twitter. But I'm okay with that. I probably rather have my closest friends reading this than random people on the internet. I'm okay with growing an audience organically; that way I have time to develop and improve my writing too.
 
----
 
 Overall, I'm happy with my decision. I'll see what the coming months bring, and see if I stick with it. So far, I see no way of going back. I feel awesome. But I've said that about other things before, so I won't be naive in thinking my decision is final. But for now, bye bye social media.
