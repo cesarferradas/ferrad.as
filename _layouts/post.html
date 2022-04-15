@@ -6,6 +6,12 @@ layout: default
 <small>{{ page.date | date_to_long_string }}</small>
 <div class="post">
   {{ content }}
-  <p>———</p>
-  <p>Comments or questions? <a href="{{ '/contact' | absolute_url }}">Get in touch</a>.</p>
+  <br/>
+  <hr/>
+  <p>
+    Comments or questions? <a href="mailto:{{ site.author.email | encode_email }}?subject=Re: {{ page.title }}">Email me</a>
+  </p>
+  <p>
+    Copy & share: <a>ferrad.as{{ page.url }}</a>
+  </p>
 </div>
