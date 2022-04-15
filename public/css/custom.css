@@ -12,3 +12,18 @@ nav a, nav a:visited {
   border: none;
   text-decoration: none;
 }
+
+hr{
+    border: none;
+}
+
+hr:after{
+  content: '∿∿∿∿∿∿∿∿';
+  /* ratio: font-size/letter-spacing = 6.25 */
+  letter-spacing: -3.2px;
+  font-size: 20px;
+}
+
+body > footer {
+  border-top: none;
+}

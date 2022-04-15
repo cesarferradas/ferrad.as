@@ -1,5 +1,5 @@
 ---
-title: Learn Vim by deleting your .vimrc
+title: Learn Vim by deleting your vimrc
 layout: post
 ---
 

@@ -136,8 +136,6 @@ should only ever be invoked once per deploy, this won't work. But hopefully
 your migration command is idempotent so it doesn't matter if you
 run it multiple times.
 
----
-
 What do you think of this approach? Do you have a better solution to quickly
 integrate migrations into your code deploys? If so, let me know in the
 comments.
