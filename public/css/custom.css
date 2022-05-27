@@ -12,3 +12,7 @@ hr:after{
   letter-spacing: -3.2px;
   font-size: 20px;
 }
+
+nav > a {
+  padding-right: 8px;
+}
