@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="{{ '/public/css/water.css' | absolute_url }}">
     <link rel="stylesheet" href="{{ '/public/css/custom.css' | absolute_url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed.xml' | absolute_url }}">
-    <script defer data-domain="ferrad.as" src="https://stats.ferrad.as/js/script.js"></script>
   </head>
   <body>
     <header>
@@ -35,6 +34,10 @@
         var at = document.getElementById('emlat')
         at.innerText = '@'
       })();
+    </script>
+    <script defer
+      src='https://static.cloudflareinsights.com/beacon.min.js'
+      data-cf-beacon='{"token": "25f6502739b04a4dadd392093e28b290"}'>
     </script>
   </body>
 </html>
