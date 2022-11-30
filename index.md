@@ -3,8 +3,6 @@ layout: page
 title: ""
 ---
 
-# About
-
 Hi there, my name is **César**. I build software for fun and work.
 
 As a generalist, I work with different technologies and build, deploy and

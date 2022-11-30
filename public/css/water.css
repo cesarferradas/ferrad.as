@@ -120,6 +120,7 @@ body {
   background: #fff;
   background: var(--background-body);
   text-rendering: optimizeLegibility;
+  font-size: 1.1em;
 }
 
 @media (prefers-color-scheme: dark) {
