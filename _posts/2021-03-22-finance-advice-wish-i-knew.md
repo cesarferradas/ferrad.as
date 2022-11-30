@@ -22,7 +22,7 @@ aggressive fund. This usually means more equities, fewer bonds.
 
 If you're auto-enrolled with NEST as most people are, their most aggressive
 option is the Sharia Fund, which is 100% equities. Have a look at its recent
-performance compared to all other NEST funds [1]:
+performance compared to all other NEST funds [^1]:
 
 ![Nest fund comparison](/public/img/nest.png)
 
@@ -91,6 +91,4 @@ rates currently out there. Instead, _keep your emergency fund in your current
 account, and invest the rest._
 
 
-**Notes**
-
-[1] Graph from NEST's Q4 2020 Investment Report found [here](https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html)
+[^1]: Graph from NEST's Q4 2020 Investment Report found [here](https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html)

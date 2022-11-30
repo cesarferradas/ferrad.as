@@ -2,11 +2,11 @@ body {
   max-width: 600px;
 }
 
-hr{
+hr {
     border: none;
 }
 
-hr:after{
+hr:after {
   content: '∿∿∿∿∿∿∿∿';
   /* ratio: font-size/letter-spacing = 6.25 */
   letter-spacing: -3.2px;
@@ -16,3 +16,14 @@ hr:after{
 nav > a {
   padding-right: 8px;
 }
+
+.footnotes {
+  font-size: 0.8em;
+}
+
+.footnotes::before {
+  font-weight: bold;
+  color: inherit;
+  content: "Footnotes:";
+}
+
