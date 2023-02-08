@@ -21,7 +21,6 @@ cat >> "$targetfile" <<EOF
 ---
 layout: post
 title: "$title"
-date: $date
 ---
 
 EOF
