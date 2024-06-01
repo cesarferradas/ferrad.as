@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Personal finance advice I wish I knew earlier
+updated_at: 2024-06-01
 ---
 
 When it comes to saving and investing for later in life, the earlier the
@@ -83,12 +84,21 @@ or savings account, you can save, say, £75 and invest £25. The closer you get
 to your ideal balance in cash, the more you can shift this split towards
 investments, untill eventually 100% of extra money goes into the stock market.
 
-### Ditch savings accounts
+### Reconsider savings accounts
 
-Savings accounts currently pay sub-inflation interest rates. It's a sad reality.
-It's not worth locking up your money for any period of time to get the interest
-rates currently out there. Instead, _keep your emergency fund in your current
-account, and invest the rest._
+(This section has been updated to reflect current interest rates).
 
+You really only need one high-interest savings account where you keep your
+emergency fund. Nowadays in the UK you can get 4-5% interest on easy access
+savings.
+
+But make sure they're easy access as you might need to rely on this money
+quickly in case of an unexpected large expense.
+
+Besides a savings account for your emergency fund, and the money you keep in
+your current/checking account for daily expenses, the rest of your money should
+be invested to make the most out of it.
+
+---
 
 [^1]: Graph from NEST's Q4 2020 Investment Report found [here](https://www.nestpensions.org.uk/schemeweb/nest/aboutnest/investment-approach/other-fund-choices/fund-factsheets.html)
