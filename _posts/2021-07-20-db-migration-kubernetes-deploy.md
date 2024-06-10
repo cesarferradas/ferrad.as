@@ -9,7 +9,7 @@ simple trick to do this is to add your migration command as an "init container"
 which runs before releasing your main pod container.  Say you have a deployment
 of a Python/Flask application as follows:
 
-```
+```yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -45,7 +45,7 @@ You need to change your Kubernetes manifest to include an initContainer block,
 where you read from the same image as your Flask app, but you override the
 command to run the above migration step instead. So:
 
-```
+```yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -89,7 +89,7 @@ same time, otherwise you might hit race conditions because the migration has
 already been applied by the time the next replica in your deployment tries to
 apply it.  Therefore the safest deployment strategy for your deployment is:
 
-```
+```yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -125,7 +125,7 @@ spec:
 With the above strategy, only one new pod with the latest application code
 (which should include migration scripts) will start running at a given time.
 The rest will still invoke the migration command but will result in no database
-changes. 
+changes.
 
 ### Limitations
 

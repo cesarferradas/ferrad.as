@@ -23,13 +23,13 @@ The quick brown fox jumps over the lazy dog.
 
 Now send the email but in HTML format, and the email becomes this:
 
-```
+```html
 Content-Type: text/html; charset=UTF-8
 
 <!doctype html>
 <html>
- <head> 
-  <meta charset="UTF-8"> 
+ <head>
+  <meta charset="UTF-8">
  </head>
  <body>
   <div>
@@ -51,7 +51,9 @@ Email is a very old technology, and therefore poses serious security challenges 
 
 Also, have you noticed how the links you click in your HTML emails look? If you hover over them with your cursor, without clicking them, your browser will tell you what they are. They are rarely `nameofthewebsite.com/path-to-relevant-page`. Usually they look more like this:
 
-`https://examplecompany.list-manage.com/track/click?u=ca141153c47e9e2266a4d389e&id=4ce610bb61&e=e8e6cb2077`
+```
+https://examplecompany.list-manage.com/track/click?u=ca141153c47e9e2266a4d389e&id=4ce610bb61&e=e8e6cb2077
+```
 
 But when you click the link, it actually takes you to the original URL you were expecting. What's up with that? Well, these are called tracking links, and are unique to the email sent to you. That means that if you click on that link, the company who sent you the email will know that you've clicked on it. Even more, companies tend to include what's called a "tracking pixel" which is an image of 1 pixel (which you can't see) included in the email. When you open the email, your email client must "fetch" this image from a link. That link, again, is unique to you. With this information, a company knows when you **opened** the email, not only when you click a link within it.
 

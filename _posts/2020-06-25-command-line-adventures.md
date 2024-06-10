@@ -24,7 +24,7 @@ I started nice and easy. I ditched [Postman](https://www.postman.com/) for
 
 ```shell
 jurl () {
-	curl -LSs -H "Accept: application/json" -H "Content-Type: application/json" "$@" | jq .
+    curl -LSs -H "Accept: application/json" -H "Content-Type: application/json" "$@" | jq .
 }
 ```
 
