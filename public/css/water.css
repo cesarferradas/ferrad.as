@@ -40,7 +40,7 @@
   --links: #41adff;
   --focus: #0096bfab;
   --border: #526980;
-  --code: #ffbe85;
+  --code: #fff;
   --animation-duration: 0.1s;
   --button-base: #0c151c;
   --button-hover: #040a0f;
@@ -1141,9 +1141,8 @@ code {
 }
 
 @media (prefers-color-scheme: dark) {
-
   code {
-  color: #ffbe85;
+  color: #fff;
   color: var(--code);
   }
 }
@@ -1167,9 +1166,8 @@ samp {
 }
 
 @media (prefers-color-scheme: dark) {
-
   samp {
-  color: #ffbe85;
+  color: #fff;
   color: var(--code);
   }
 }
@@ -1193,9 +1191,8 @@ time {
 }
 
 @media (prefers-color-scheme: dark) {
-
   time {
-  color: #ffbe85;
+  color: #fff;
   color: var(--code);
   }
 }
