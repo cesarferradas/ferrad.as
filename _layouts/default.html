@@ -3,14 +3,33 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    {% seo %}
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/public/apple-touch-icon.png' | absolute_url }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/public/favicon-32x32.png' | absolute_url }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/public/favicon-16x16.png' | absolute_url }}">
-    <link rel="manifest" href="{{ '/public/site.webmanifest' | absolute_url }}">
-    <link rel="stylesheet" href="{{ '/public/css/water.css' | absolute_url }}">
-    <link rel="stylesheet" href="{{ '/public/css/custom.css' | absolute_url }}">
-    <link rel="stylesheet" href="{{ '/public/css/syntax.css' | absolute_url }}">
+    {% if page.title == '' -%}
+    <title>{{ site.title }} | {{ site.description }}</title>
+    {% else -%}
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="twitter:title" content="{{ page.title }}">
+    {% endif -%}
+    <meta name="author" content="{{ site.author.name }}">
+    {% if page.excerpt -%}
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    {% else -%}
+    <meta name="description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}">
+    {% endif -%}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:type" content="article">
+    <meta name="twitter:card" content="summary">
+    <link rel="icon" type="image/png" sizes="32x32" href="/public/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/public/favicon-16x16.png">
+    <link rel="stylesheet" href="/public/css/water.css">
+    <link rel="stylesheet" href="/public/css/custom.css">
+    {% if page.url != '/' -%}
+    <link rel="stylesheet" href="/public/css/syntax.css">
+    {% endif -%}
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed.xml' | absolute_url }}">
     <script defer data-domain="ferrad.as" src="https://plausible.io/js/script.js"></script>
   </head>
@@ -18,23 +37,15 @@
     <header>
       <h2>{{ site.title }}</h2>
       <nav>
-        <a href="{{ '/' | absolute_url }}">Start</a>
-        <a href="{{ '/blog' | absolute_url }}">Blog</a>
-        <a href="{{ '/contact' | absolute_url }}">Contact</a>
-        <a href="{{ '/now' | absolute_url }}">Now</a>
-        <a href="{{ '/projects' | absolute_url }}">Projects</a>
+        <a href="/">Start</a>
+        <a href="/blog">Blog</a>
+        <a href="/contact">Contact</a>
+        <a href="/now">Now</a>
+        <a href="/projects">Projects</a>
       </nav>
     </header>
     <main>
-      {{ content }}
+      {{ content -}}
     </main>
-    <script src="{{ '/public/js/anchor.min.js' | absolute_url }}"></script>
-    <script>
-      anchors.add('.post h2, .post h3, .post h4');
-      (function () {
-        var at = document.getElementById('emlat')
-        at.innerText = '@'
-      })();
-    </script>
   </body>
 </html>

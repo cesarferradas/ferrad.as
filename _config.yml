@@ -7,16 +7,19 @@ baseurl:        ""
 # Navigation
 permalink:      /:slug
 
+# Minify CSS
+sass:
+  style: compressed
+
 # Contact
 author:
-  name:         César
+  name:         César Ferradas
   github:       https://github.com/cesarferradas
   linkedin:     https://www.linkedin.com/in/cesarferradas
 
 # Gems
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
 
 highlighter: rouge

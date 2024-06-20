@@ -8,6 +8,10 @@ layout: default
   <small>(updated {{ page.updated_at | date_to_long_string }})</small>
 {% endif %}
 <div class="post">
-  {{ content }}
+  {{ content -}}
   </br>
 </div>
+<script src="{{ '/public/js/anchor.min.js' | absolute_url }}"></script>
+<script>
+  anchors.add('.post h2, .post h3, .post h4');
+</script>
