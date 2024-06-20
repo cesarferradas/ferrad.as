@@ -20,3 +20,6 @@ plugins:
   - jekyll-sitemap
 
 highlighter: rouge
+
+exclude:
+  - new_post.sh
