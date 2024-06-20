@@ -128,7 +128,6 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
         width: 100%;
     }
 
-    /* Make everything in a row a column */
     .row > * {
         display: block;
         flex: 1 1 auto;
@@ -141,7 +140,6 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     }
 }
 
-/* Dark mode overrides (confusingly inverse) */
 @media (prefers-color-scheme: dark) {
     :root {
         --light: #222;
@@ -150,14 +148,11 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
         --moredark: #fefefe;
         --link: #41adff;
     }
-    /* This fixes an odd blue then white shadow on FF in dark mode */
-    *:focus {
-        outline: var(--light);
-        box-shadow: 0 0 0 .25em var(--link);
+    a:focus {
+        outline: none;
     }
 }
 
-/* Printing */
 @media print {
     .home {
         display: none;
