@@ -24,9 +24,9 @@
     <meta property="og:type" content="article">
     <meta name="twitter:card" content="summary">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
-    <link rel="stylesheet" href="/public/css/s.css">
+    <link rel="stylesheet" href="/static/s.css">
     {% if page.url != '/' -%}
-    <link rel="stylesheet" href="/public/css/x.css">
+    <link rel="stylesheet" href="/static/x.css">
     {% endif -%}
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed.xml' | absolute_url }}">
     <script defer data-domain="ferrad.as" src="https://plausible.io/js/script.js"></script>
@@ -45,7 +45,7 @@
       {{ content -}}
     </main>
     {% if page.id -%}
-    <script src="{{ '/public/js/anchor.min.js' | absolute_url }}"></script>
+    <script src="{{ '/static/anchor.min.js' | absolute_url }}"></script>
     <script>
       anchors.add('h2, h3, h4');
     </script>

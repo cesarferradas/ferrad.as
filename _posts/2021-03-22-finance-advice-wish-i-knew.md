@@ -25,7 +25,7 @@ If you're auto-enrolled with NEST as most people are, their most aggressive
 option is the Sharia Fund, which is 100% equities. Have a look at its recent
 performance compared to all other NEST funds [^1]:
 
-![Nest fund comparison](/public/img/nest.png)
+![Nest fund comparison](/images/nest.png)
 
 _(past performance is not a reliable indicator of future results)_
 
