@@ -12,6 +12,10 @@
   content: "Footnotes:";
 }
 
+.anchorjs-link {
+  text-decoration: none !important;
+}
+
 /* GitHub Light */
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
