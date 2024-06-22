@@ -3,7 +3,9 @@ layout: default
 title: ""
 ---
 
-Hi there, my name is César. I build software for fun and work.
+Hi there, my name is César.
+
+I build software professionally and for fun.
 
 As a generalist, I work with different technologies and build, deploy and
 maintain systems using various languages, with and without frameworks, across
