@@ -53,6 +53,8 @@ body {
 a,
 a:hover {
     text-decoration: underline;
+    text-decoration-color: dodgerblue;
+    text-decoration-thickness: 0.09em;
 }
 
 header {
@@ -69,7 +71,7 @@ nav a {
 }
 
 main a {
-    font-weight: 450;
+    font-weight: 430;
 }
 
 img {
