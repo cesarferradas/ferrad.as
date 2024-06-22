@@ -44,11 +44,11 @@
     <main>
       {{ content -}}
     </main>
-    {% if page.url != '/' -%}
+    {% if page.id -%}
     <script src="{{ '/public/js/anchor.min.js' | absolute_url }}"></script>
     <script>
       anchors.options.placement = 'left';
-      anchors.add('article h2, article h3, article h4');
+      anchors.add('h2, h3, h4');
     </script>
     {% endif -%}
   </body>
