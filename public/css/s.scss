@@ -24,10 +24,10 @@ h1 {
 }
 
 button, input {
-    font-size: 1em; /* Override browser default font shrinking*/
+    font-size: 1em;
 }
 
-input {
+input, textarea {
     border: 1px solid var(--dark);
     background-color: var(--light);
     border-radius: .25em;
@@ -101,45 +101,9 @@ button:hover, .button:hover, input[type=submit]:hover {
     background-color: var(--darker);
 }
 
-/* Add a margin between side-by-side buttons */
-button + button, .button + .button, input[type=submit] + input[type=submit] {
+/* margin between buttons */
+button + button, input[type=submit] + input[type=submit] {
     margin-left: 1em;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-.bordered {
-    border: 3px solid;
-}
-
-/* Desktop sizes */
-@media (min-width: 600px) {
-    ol.twocol {
-        column-count: 2;
-    }
-
-    .row {
-        display: flex;
-        flex-direction: row;
-        padding: 0;
-        width: 100%;
-    }
-
-    .row > * {
-        display: block;
-        flex: 1 1 auto;
-        max-width: 100%;
-        width: 100%;
-    }
-
-    .row > *:not(:last-child) {
-        margin-right: 10px;
-    }
 }
 
 @media (prefers-color-scheme: dark) {
