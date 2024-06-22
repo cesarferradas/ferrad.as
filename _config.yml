@@ -13,9 +13,17 @@ sass:
 
 # Contact
 author:
-  name:         César Ferradas
-  github:       https://github.com/cesarferradas
-  linkedin:     https://www.linkedin.com/in/cesarferradas
+  name: César Ferradas
+  contacts:
+    - name: GitHub
+      url: https://github.com/cesarferradas
+      handle: cesarferradas
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/cesarferradas
+      handle: Cesar Ferradas
+    - name: Hacker News
+      url: https://news.ycombinator.com/user?id=ferradas
+      handle: ferradas
 
 # Gems
 plugins:
