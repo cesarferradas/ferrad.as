@@ -1,9 +1,7 @@
 ---
 title: Projects
-layout: default
+layout: page
 ---
-
-# Projects
 
 Some of the projects I've created over the years.
 
