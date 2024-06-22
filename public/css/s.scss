@@ -7,7 +7,6 @@
     --lesslight: #efefef;
     --dark: #404040;
     --moredark: #000;
-    --link: #0076d1;
     border-top: 0.3em solid var(--dark);
     line-height: 1.4em;
     font-family: system-ui, sans-serif;
@@ -52,9 +51,7 @@ body {
 }
 
 a {
-    color: var(--link) !important;
-    outline: none;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
@@ -72,6 +69,10 @@ nav a {
     font-size: 1.1em;
     font-weight: 500;
     text-decoration: none
+}
+
+p a {
+    font-weight: 450;
 }
 
 img {
@@ -150,9 +151,5 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
         --lesslight: #333;
         --dark: #eee;
         --moredark: #fefefe;
-        --link: #41adff;
-    }
-    a:focus {
-        outline: none;
     }
 }
