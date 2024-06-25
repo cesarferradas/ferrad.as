@@ -8,9 +8,9 @@
     {% else -%}
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="twitter:title" content="{{ page.title }}">
     {% endif -%}
-    <meta name="author" content="{{ site.author.name }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
     {% if page.excerpt -%}
     <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
     <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
@@ -18,17 +18,17 @@
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}">
     {% endif -%}
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:site_name" content="{{ site.title }}">
+    {% if page.id -%}
     <meta property="og:type" content="article">
-    <meta name="twitter:card" content="summary">
+    <meta name="author" content="{{ site.author.name }}">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed.xml' | absolute_url }}">
+    {% endif -%}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
     <link rel="stylesheet" href="/static/s.css">
-    {% if page.url != '/' -%}
+    {% if page.id -%}
     <link rel="stylesheet" href="/static/x.css">
     {% endif -%}
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed.xml' | absolute_url }}">
     <script defer data-domain="ferrad.as" src="https://plausible.io/js/script.js"></script>
   </head>
   <body>
