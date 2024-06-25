@@ -73,6 +73,11 @@ main a {
     font-weight: 430;
 }
 
+blockquote {
+  border-left: 0.15em solid var(--dark);
+  padding-left: 0.5em;
+}
+
 img {
     max-width: 100%;
     height: auto;
