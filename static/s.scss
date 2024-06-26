@@ -8,6 +8,7 @@
     --dark: #404040;
     --darker: #000;
     line-height: 1.4em;
+    font-size: 16px;
     font-family: system-ui, sans-serif;
 }
 
@@ -38,6 +39,10 @@ pre {
     margin: 0.5em 0 0.5em 0;
     padding: 0.5em;
     overflow: auto;
+}
+
+code {
+    font-size: 15px;
 }
 
 body {
