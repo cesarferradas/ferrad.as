@@ -23,6 +23,12 @@ h1 {
     margin-bottom: .2em;
 }
 
+h1,
+h2,
+h3 {
+    font-weight: 550;
+}
+
 button, input {
     font-size: 1em;
 }
@@ -42,7 +48,7 @@ pre {
 }
 
 code {
-    font-size: 15px;
+    font-size: 14px;
 }
 
 body {
@@ -64,7 +70,7 @@ a:hover {
 header {
     font-size: 1.5em;
     margin: .83em 0;
-    font-weight: 600;
+    font-weight: 550;
 }
 
 nav a {
@@ -79,8 +85,8 @@ main a {
 }
 
 blockquote {
-  border-left: .15em solid var(--dark);
-  padding: 0 .4em;
+    border-left: .15em solid var(--dark);
+    padding: 0 .4em;
 }
 
 img {
