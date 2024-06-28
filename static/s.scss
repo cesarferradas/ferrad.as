@@ -112,11 +112,6 @@ button:hover, .button:hover, input[type=submit]:hover {
     background-color: var(--darker);
 }
 
-/* margin between buttons */
-button + button, input[type=submit] + input[type=submit] {
-    margin-left: 1em;
-}
-
 @media (prefers-color-scheme: dark) {
     :root {
         --lighter: #222;
