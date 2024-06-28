@@ -20,7 +20,7 @@
 h1 {
     line-height: 1.2em;
     font-size: 1.8em;
-    margin-bottom: 0.2em;
+    margin-bottom: .2em;
 }
 
 button, input {
@@ -36,8 +36,8 @@ input, textarea {
 
 pre {
     background-color: var(--light);
-    margin: 0.5em 0 0.5em 0;
-    padding: 0.5em;
+    margin: .5em 0 .5em 0;
+    padding: .5em;
     overflow: auto;
 }
 
@@ -58,17 +58,17 @@ a,
 a:hover {
     text-decoration: underline;
     text-decoration-color: dodgerblue;
-    text-decoration-thickness: 0.09em;
+    text-decoration-thickness: .09em;
 }
 
 header {
     font-size: 1.5em;
-    margin: 0.83em 0;
+    margin: .83em 0;
     font-weight: 600;
 }
 
 nav a {
-    padding-right: 0.5em;
+    padding-right: .5em;
     font-size: 1.1em;
     font-weight: 500;
     text-decoration: none
@@ -79,8 +79,8 @@ main a {
 }
 
 blockquote {
-  border-left: 0.15em solid var(--dark);
-  padding-left: 0.5em;
+  border-left: .15em solid var(--dark);
+  padding: 0 .4em;
 }
 
 img {
@@ -90,7 +90,7 @@ img {
 
 hr {
     border: none;
-    height: 0.1em;
+    height: .1em;
     color: var(--darker);
     background-color: var(--darker);
 }
@@ -100,7 +100,7 @@ button, .button, input[type=submit] {
     background-color: var(--dark);
     color: var(--lighter);
     text-align: center;
-    padding: .5em;
+    padding: .4em;
     border-radius: .25em;
     text-decoration: none;
     border: none;
