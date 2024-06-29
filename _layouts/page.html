@@ -4,11 +4,6 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 {% if page.last_modified_at -%}
-<small>
-Updated {{ page.last_modified_at | date: '%B %Y' }}
-{% if page.location -%}
-from {{ page.location }}
-{% endif -%}
-</small>
+<small>Updated {{ page.last_modified_at | date: '%B %Y' }}</small>
 {% endif -%}
 {{ content -}}
