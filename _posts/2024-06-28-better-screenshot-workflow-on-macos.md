@@ -80,7 +80,7 @@ cleaner.
 
 ## Result
 
-Bringing it al together, this is how things now look:
+Bringing it all together, this is how things should look.
 
 When you take a screenshot, it immediately goes to your `Screenshots` folder
 which you've pinned to your Dock.
@@ -92,8 +92,6 @@ first, at the bottom:
 
 ![stack](/images/snap_result.png)
 
-
-The number of people that I see using the default MacOS
-location, and therefore struggle to find screenshots quickly, is shocking. If
-this is you, I hope this saves you some time and makes your experience more
-enjoyable.
+The number of people that I see using the default MacOS screenshots location,
+and therefore struggling to find screenshots quickly, is surprising. If
+this is you, I hope this saves you some time.
