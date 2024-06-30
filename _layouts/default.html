@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if page.title == '' -%}
-    <title>{{ site.title }} | {{ site.description }}</title>
-    {% else -%}
+    {% if page.title -%}
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta property="og:title" content="{{ page.title }}">
+    {% else -%}
+    <title>{{ site.title }} | {{ site.description }}</title>
     {% endif -%}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
@@ -34,7 +34,8 @@
   <body>
     <header>{{ site.title }}</header>
     <nav>
-      <a href="/">About</a>
+      <a href="/">Index</a>
+      <a href="/about">About</a>
       <a href="/blog">Blog</a>
       <a href="/contact">Contact</a>
       <a href="/now">Now</a>

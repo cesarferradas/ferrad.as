@@ -1,20 +1,16 @@
 ---
 layout: default
-title: ""
 ---
 
-Hi there, my name is César.
+Welcome, I'm César.
 
-I build software professionally and for fun.
+I'm a curious Software Engineer with a passion for building systems both
+professionally and for myself.
 
-As a generalist, I work with various programming languages, frameworks and
-technologies to build, deploy and maintain systems across the stack.
+As a generalist, I enjoy using a variety of programming languages, frameworks
+and technologies to build and maintain systems across the tech stack.
 
-I strive to support open source software I use. I've contributed to
-[Flasgger](//github.com/flasgger/flasgger){:target="_blank"},
-[RQ](//github.com/rq/rq){:target="_blank"} and
-[Tofu Auth](//github.com/calleluks/Tofu){:target="_blank"}.
+Besides coding, I'm interested in language learning, chess, cybersecurity,
+personal finance and more. I sometimes [blog](/blog) about my interests.
 
-Besides coding, I really enjoy language learning, chess and making coffee.
-
-See [what I'm doing now](/now).
+Read more [about me](/about) or find out [what I'm doing now](/now).
