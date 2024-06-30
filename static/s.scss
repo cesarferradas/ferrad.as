@@ -54,11 +54,9 @@ code {
 
 body {
     background-color: var(--lighter);
-    margin: 0;
+    margin: 0 auto;
     max-width: 40em;
     padding: 0 20px 20px 20px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 a,
@@ -97,7 +95,7 @@ img {
 
 hr {
     border: none;
-    height: .1em;
+    height: 2px;
     color: var(--darker);
     background-color: var(--darker);
 }
