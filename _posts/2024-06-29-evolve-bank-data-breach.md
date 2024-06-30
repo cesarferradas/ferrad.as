@@ -88,9 +88,7 @@ passwords for each account](/password-habits), consider the following:
 #### Remain vigilant
 
 Wise recommends that you keep an eye out for activity on your accounts that
-might have been linked to your Wise USD accountmight have been linked to your
-Wise USD account, or to whichever account you have that partnered with Evolve
-Bank.
+might have been linked to your Wise USD account, or to whichever account you have that partnered with Evolve Bank.
 
 Do not share any personal information over the phone or via email. Your banks
 should have all the information they need about you already.
