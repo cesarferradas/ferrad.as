@@ -25,9 +25,9 @@
     {% endif -%}
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <link rel="icon" type="image/png" href="/favicon.png">
-    <link rel="stylesheet" href="/static/s.css">
+    <link rel="stylesheet" href="/s/s.css">
     {% if page.id -%}
-    <link rel="stylesheet" href="/static/x.css">
+    <link rel="stylesheet" href="/s/x.css">
     {% endif -%}
     <script defer data-domain="ferrad.as" src="https://plausible.io/js/script.js"></script>
   </head>
@@ -46,7 +46,7 @@
       {{ content -}}
     </main>
     {% if page.id -%}
-    <script src="{{ '/static/anchor.min.js' | absolute_url }}"></script>
+    <script src="{{ '/s/anchor.min.js' | absolute_url }}"></script>
     <script>
       anchors.options.icon = '#'
       anchors.add('h2, h3');

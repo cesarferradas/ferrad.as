@@ -67,9 +67,12 @@ header {
     font-weight: 550;
 }
 
+header a {
+    text-decoration: none;
+}
+
 nav a {
     padding-right: .5em;
-    font-size: 17px;
     font-weight: 500;
     text-decoration: none;
 }
