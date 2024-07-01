@@ -4,8 +4,8 @@
 :root {
     color-scheme: light dark;
     --lighter: #fff;
-    --light: #efefef;
-    --dark: #404040;
+    --light: #fafafa;
+    --dark: #222;
     --darker: #000;
     line-height: 1.5em;
     font-size: 16px;
@@ -34,26 +34,21 @@ button, input {
     font-size: 1em;
 }
 
-input, textarea {
+input, textarea, pre {
     border: 1px solid var(--dark);
-    background-color: var(--light);
+    background-color: var(--lighter);
     border-radius: .25em;
     padding: .5em;
-}
-
-pre {
-    background-color: var(--light);
     margin: .5em 0 .5em 0;
-    padding: .5em;
     overflow: auto;
 }
 
-code {
+figcaption, code {
     font-size: 14px;
 }
 
 body {
-    background-color: var(--lighter);
+    background-color: var(--light);
     margin: 0 auto;
     max-width: 40em;
     padding: 0 20px 20px 20px;
@@ -63,20 +58,24 @@ a,
 a:hover {
     text-decoration: underline;
     text-decoration-color: dodgerblue;
-    text-decoration-thickness: .09em;
+    text-decoration-thickness: .1em;
 }
 
 header {
-    font-size: 1.5em;
+    font-size: 24px;
     margin: .83em 0;
     font-weight: 550;
 }
 
 nav a {
     padding-right: .5em;
-    font-size: 1.1em;
+    font-size: 17px;
     font-weight: 500;
-    text-decoration: none
+    text-decoration: none;
+}
+
+strong {
+    font-weight: 640;
 }
 
 main a {
@@ -100,28 +99,27 @@ hr {
     background-color: var(--darker);
 }
 
-button, .button, input[type=submit] {
+button, input[type=submit] {
     display: inline-block;
     background-color: var(--dark);
     color: var(--lighter);
-    text-align: center;
-    padding: .4em;
+    padding: 8px;
     border-radius: .25em;
     text-decoration: none;
     border: none;
     cursor: pointer;
 }
 
-button:hover, .button:hover, input[type=submit]:hover {
+button:hover, input[type=submit]:hover {
     color: var(--light);
     background-color: var(--darker);
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --lighter: #222;
-        --light: #333;
+        --lighter: #111;
+        --light: #222;
         --dark: #eee;
-        --darker: #fefefe;
+        --darker: #fff;
     }
 }
