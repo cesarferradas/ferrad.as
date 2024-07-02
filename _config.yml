@@ -10,6 +10,7 @@ permalink:      /:slug
 # Minify CSS
 sass:
   style: compressed
+  sourcemap: never
 
 # Contact
 author:
