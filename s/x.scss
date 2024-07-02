@@ -1,7 +1,7 @@
 ---
 ---
 
-/* Writing */
+// Writing
 .footnotes {
   font-size: 14px;
 }
@@ -11,8 +11,13 @@
   content: "Notes:";
 }
 
-.anchorjs-link {
-  text-decoration: none !important;
+// Anchor links
+a.anchor {
+  opacity: 0;
+}
+
+*:hover>.anchor, a.anchor:hover {
+  opacity: 1;
 }
 
 // Syntax

@@ -45,11 +45,7 @@
       {{ content -}}
     </main>
     {% if page.id -%}
-    <script src="{{ '/s/anchor.min.js' | absolute_url }}"></script>
-    <script>
-      anchors.options.icon = '#'
-      anchors.add('h2, h3');
-    </script>
+    <script src="/s/anchors.js"></script>
     {% endif -%}
   </body>
 </html>
