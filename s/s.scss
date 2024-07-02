@@ -17,16 +17,24 @@
     color: var(--darker);
 }
 
+body {
+    background-color: var(--light);
+    margin: 0 auto;
+    max-width: 40em;
+    padding: 0 20px 20px 20px;
+}
+
+main {
+    line-height: 1.6em;
+}
+
 h1 {
     line-height: 1.2em;
     font-size: 1.8em;
     margin-bottom: .2em;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4 {
     font-weight: 550;
 }
 
@@ -45,13 +53,6 @@ input, textarea, pre {
 
 figcaption, code {
     font-size: 14px;
-}
-
-body {
-    background-color: var(--light);
-    margin: 0 auto;
-    max-width: 40em;
-    padding: 0 20px 20px 20px;
 }
 
 a,
