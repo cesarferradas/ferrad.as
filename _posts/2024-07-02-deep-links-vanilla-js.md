@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep links in 10 lines of vanilla JavaScript"
+title: "Deep linking in 10 lines of vanilla JavaScript"
 ---
 
 Adding clickable "deep anchor links" to the headings of any page of your
