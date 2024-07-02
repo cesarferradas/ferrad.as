@@ -3,11 +3,10 @@
 
 :root {
     color-scheme: light dark;
-    --lighter: #fff;
-    --light: #fafafa;
+    --light: #fff;
     --dark: #222;
     --darker: #000;
-    line-height: 1.5em;
+    line-height: 1.6;
     font-size: 16px;
     font-family: system-ui, sans-serif;
 }
@@ -21,33 +20,25 @@ body {
     background-color: var(--light);
     margin: 0 auto;
     max-width: 40em;
-    padding: 0 20px 20px 20px;
-}
-
-main {
-    line-height: 1.6em;
+    padding: 20px;
 }
 
 h1 {
-    line-height: 1.2em;
-    font-size: 1.8em;
-    margin-bottom: .2em;
+    font-size: 30px;
 }
 
 h1, h2, h3, h4 {
+    line-height: 1.2;
     font-weight: 550;
-}
-
-button, input {
-    font-size: 1em;
+    margin-bottom: 0;
 }
 
 input, textarea, pre {
     border: 1px solid var(--dark);
-    background-color: var(--lighter);
+    background-color: var(--light);
     border-radius: .25em;
     padding: .5em;
-    margin: .5em 0 .5em 0;
+    margin: .5em 0;
     overflow: auto;
 }
 
@@ -64,7 +55,7 @@ a:hover {
 
 header {
     font-size: 24px;
-    margin: .83em 0;
+    margin-bottom: .2em;
     font-weight: 550;
 }
 
@@ -79,7 +70,7 @@ nav a {
 }
 
 strong {
-    font-weight: 640;
+    font-weight: 650;
 }
 
 main a {
@@ -87,8 +78,9 @@ main a {
 }
 
 blockquote {
-    border-left: .15em solid var(--dark);
-    padding: 0 .4em;
+    border-left: 2px solid var(--dark);
+    padding-left: 1em;
+    margin-left: 1em;
 }
 
 img {
@@ -99,30 +91,18 @@ img {
 hr {
     border: none;
     height: 2px;
-    color: var(--darker);
-    background-color: var(--darker);
+    color: var(--dark);
+    background-color: var(--dark);
 }
 
 button, input[type=submit] {
-    display: inline-block;
-    background-color: var(--dark);
-    color: var(--lighter);
     padding: 8px;
-    border-radius: .25em;
-    text-decoration: none;
-    border: none;
     cursor: pointer;
-}
-
-button:hover, input[type=submit]:hover {
-    color: var(--light);
-    background-color: var(--darker);
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --lighter: #111;
-        --light: #222;
+        --light: #111;
         --dark: #eee;
         --darker: #fff;
     }
