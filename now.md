@@ -1,6 +1,7 @@
 ---
 title: What I'm doing now
 layout: page
+description: What I'm doing now
 last_modified_at: 2024-06-29
 ---
 

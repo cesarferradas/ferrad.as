@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: page
+description: My projects
 ---
 
 Some of the projects I've created over the years.

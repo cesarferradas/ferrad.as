@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page
+excerpt: Contact me
 ---
 
 Get in touch at <code>c<span id="emlat"> 'at' </span>ferrad.as</code>

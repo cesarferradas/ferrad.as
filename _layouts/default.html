@@ -5,23 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if page.title -%}
     <title>{{ page.title }} | {{ site.title }}</title>
-    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
     {% else -%}
     <title>{{ site.title }} | {{ site.description }}</title>
+    <meta property="og:title" content="{{ site.title }}">
     {% endif -%}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:site_name" content="{{ site.title }}">
     {% if page.excerpt -%}
-    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
     <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    {% elsif page.description -%}
+    <meta property="og:description" content="{{ page.description }}">
     {% else -%}
-    <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}">
     {% endif -%}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     {% if page.id -%}
     <meta property="og:type" content="article">
-    <meta name="author" content="{{ site.author.name }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed.xml' | absolute_url }}">
+    {% else -%}
+    <meta property="og:type" content="website">
     {% endif -%}
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <link rel="icon" type="image/png" href="/favicon.png">

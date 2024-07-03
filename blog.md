@@ -1,6 +1,7 @@
 ---
 title: Blog
 layout: page
+description: Blog posts on topics that interest me
 ---
 
 Writings on topics that interest me. There is no underlying theme, but in

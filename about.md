@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: About me
 ---
 
 Hello! My name is **César Ferradas**. I'm from Lima, Peru.
