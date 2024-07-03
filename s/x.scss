@@ -12,11 +12,11 @@
 }
 
 // Anchor links
-a.anchor {
+span.anchor {
   opacity: 0;
 }
 
-*:hover>.anchor, a.anchor:hover {
+*:hover>.anchor {
   opacity: 1;
 }
 
