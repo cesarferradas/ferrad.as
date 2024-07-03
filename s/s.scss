@@ -50,7 +50,7 @@ a,
 a:hover {
     text-decoration: underline;
     text-decoration-color: dodgerblue;
-    text-decoration-thickness: .1em;
+    text-decoration-thickness: 2px;
 }
 
 header {
@@ -71,10 +71,6 @@ nav a {
 
 strong {
     font-weight: 650;
-}
-
-main a {
-    font-weight: 430;
 }
 
 blockquote {
