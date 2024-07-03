@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Deep linking in 10 lines of vanilla JavaScript"
+title: "Deep anchor links in 13 lines of plain JavaScript"
+updated_at: 2024-07-03
 ---
 
 Adding clickable "deep anchor links" to the headings of any page of your
@@ -16,7 +17,7 @@ minified size, and the script I will show you is just 338 bytes, unminified.
 
 Here's a demo:
 
-### Demo
+## Demo
 
 The only prerequisite for this to work is that the heading tags should already
 have `id` properties on them. For example:
@@ -72,3 +73,37 @@ That's all you really need. AnchorJS is great if you don't already have `id`s
 on your headings, if you need to customise the icon, or if you want to link to
 parts of the page that are not headings. But for most sites I think the above
 tiny script should do 90% of the job.
+
+
+## Accessibility update
+
+After publishing this post I realised that the above solution is not
+accessible: screen readers pick up and read out the `#` at the end of each
+title.
+
+For a full explanation on how to remedy this, have a look at
+[Are your Anchor Links
+Accessible?](https://amberwilson.co.uk/blog/are-your-anchor-links-accessible/),
+but in short, below is an improved script. It adds a `<span>` wrapper
+around the link and gives it an `aria-hidden="true"` property (we can't add
+this property directly on the link because
+[it's a focusable element](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-hidden)).
+
+```js
+(function() {
+  var headings = document.querySelectorAll("h2,h3");
+  for (var heading of headings) {
+    var s = document.createElement("span");
+    s.className = "anchor";
+    s.style = "padding-left: 8px;";
+    s.setAttribute("aria-hidden", "true");
+    var l = document.createElement("a");
+    l.setAttribute("href", "#" + heading.id);
+    l.textContent = "#";
+    s.appendChild(l); heading.appendChild(s);
+  }
+})();
+```
+
+The script is no longer 10 lines, so I've updated the blog post's title to a
+less snappy "in 13 lines"!
