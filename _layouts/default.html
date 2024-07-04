@@ -30,7 +30,9 @@
     {% if page.id -%}
     <link rel="stylesheet" href="/s/x.css">
     {% endif -%}
-    <script defer data-domain="ferrad.as" src="https://plausible.io/js/script.js"></script>
+    {% if page.title -%}
+    <script defer data-domain="ferrad.as" src="//plausible.io/js/script.js"></script>
+    {% endif -%}
   </head>
   <body>
     <header><a href="/">{{ site.title }}</a></header>
