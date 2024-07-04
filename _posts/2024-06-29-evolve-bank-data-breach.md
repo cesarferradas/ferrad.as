@@ -19,8 +19,8 @@ and [Mercury Bank](https://x.com/mercury/status/1806060971909149151).
 
 
 I, along with probably millions of others, have been affected. So I wanted to
-write an article to share **what is known so far** about the breach and what
-**we should do to stay safe**.
+write an article to share **what is known so far** about the breach and **what
+we should do to stay safe**.
 
 ## What data was exposed in the Evolve breach
 
@@ -56,7 +56,8 @@ numbers. This was confirmed in the email Wise sent customers yesterday:
 
 I've previously written about [how to protect
 yourself](/how-to-protect-yourself-after-data-breach) after a data breach.
-However, when the breach involves banking details, we need extra precautions.
+While those measures still apply, when the breach involves banking details, we
+need to take extra precautions.
 
 ### For US citizens
 
@@ -110,7 +111,6 @@ For more resources on preventing Financial Fraud, I highly recommend [Take Five
 To Stop Fraud](https://www.takefive-stopfraud.org.uk/).
 
 <br>
-
 This data breach, like all others, is regrettable. But with the right mindset,
 actions and tools we should be able to fight back against cybercriminals.
 
