@@ -3,9 +3,8 @@
 
 :root {
     color-scheme: light dark;
-    --light: #fff;
-    --dark: #222;
-    --darker: #000;
+    --bg: #fff;
+    --fg: #000;
     line-height: 1.6;
     font-size: 17px;
     font-family: system-ui, sans-serif;
@@ -13,11 +12,11 @@
 
 * {
     box-sizing: border-box;
-    color: var(--darker);
+    background-color: var(--bg);
+    color: var(--fg);
 }
 
 body {
-    background-color: var(--light);
     margin: 0 auto;
     max-width: 40em;
     padding: 20px;
@@ -34,8 +33,7 @@ h1, h2, h3, h4 {
 }
 
 input, textarea, pre {
-    border: 1px solid var(--dark);
-    background-color: var(--light);
+    border: 1px solid var(--fg);
     border-radius: .25em;
     padding: .5em;
     margin: .5em 0;
@@ -74,7 +72,7 @@ strong {
 }
 
 blockquote {
-    border-left: 2px solid var(--dark);
+    border-left: 2px solid var(--fg);
     padding-left: 1em;
     margin-left: 1em;
 }
@@ -87,8 +85,8 @@ img {
 hr {
     border: none;
     height: 2px;
-    color: var(--dark);
-    background-color: var(--dark);
+    color: var(--fg);
+    background-color: var(--fg);
 }
 
 button, input[type=submit] {
@@ -98,8 +96,7 @@ button, input[type=submit] {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --light: #111;
-        --dark: #eee;
-        --darker: #fff;
+        --bg: #15161b;
+        --fg: #fff;
     }
 }
