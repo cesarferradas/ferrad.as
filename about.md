@@ -25,4 +25,5 @@ contributed to projects such as [Flasgger](//github.com/flasgger/flasgger),
 website you're on right now is [open-source](https://github.com/cesarferradas/ferrad.as).
 
 I hold a BSc in Computer Science with a minor in Entrepreneurship from
-University College London, where I graduated with first-class honors.
+[University College London](https://www.ucl.ac.uk/), where I graduated with
+First Class honours.
