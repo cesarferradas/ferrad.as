@@ -11,7 +11,7 @@
     <meta property="og:title" content="{{ site.title }}">
     {% endif -%}
     {% if page.excerpt -%}
-    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    <meta property="og:description" content="{{ page.excerpt | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}">
     {% elsif page.description -%}
     <meta property="og:description" content="{{ page.description }}">
     {% else -%}
