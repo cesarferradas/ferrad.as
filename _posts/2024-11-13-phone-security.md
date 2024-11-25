@@ -26,9 +26,9 @@ added security, so I've listed them in order of convenience:
 
 3. **Lock your phone when it goes offline.** Often thieves might want to turn
    airplane mode on to avoid the phone being tracked. If they do, the phone will
-   be locked. Android has this feature. For iPhone, you have to configure an
-   automation in the Shortcuts app to "When airplane mode is turned on" →
-   "lock screen".
+   be locked. Android has this as a setting under "Theft protection". For
+   iPhone, you have to configure an automation in the Shortcuts app to "When
+   airplane mode is turned on" → "Lock screen".
 
 4. **Disable notification previews.** Even if your phone is locked, criminals
    could see password reset codes, SMS messages and more from your lock screen.
