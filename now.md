@@ -2,17 +2,16 @@
 title: What I'm doing now
 layout: page
 description: What I'm doing now
-last_modified_at: 2024-06-29
+last_modified_at: 2025-08-23
 ---
 
-Working as a Senior Software Engineer at [Octopus Energy](https://octopus.energy).
+Working as a Lead Software Engineer at [Octopus Energy](https://octopus.energy).
 
-Spending my time between London, Sofia and Lima. London is a nice base, but my
-family is elsewhere.
+Living in Sofia, Bulgaria with my wife. I spend time in London and Lima also.
 
-Still learning Bulgarian. I have a weekly lesson with a teacher. Keeps me
-accountable.
+Self-learning Bulgarian. After 4 years of weekly lessons, and now that I live
+in Bulgaria, I'm able to teach myself whatever I'm missing.
 
-Getting back into running. Aiming to run 5k weekly as a minimum.
+Trying to establish a workout routine again. Signed up to a gym.
 
-Going on long hikes in nature on the weekends.
+Hiking [Vitosha](https://en.wikipedia.org/wiki/Vitosha) on weekends.
