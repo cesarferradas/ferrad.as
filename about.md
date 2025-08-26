@@ -6,9 +6,10 @@ description: About me
 
 Hello! My name is **César Ferradas**. I'm from Lima, Peru.
 
-I'm a Software Engineer and Systems Architect with over 10 years of programming
-experience and 5+ years in professional roles at both startups and large
-companies.
+I'm a Software Engineer and Systems Architect with over
+{{ site.time | date: '%Y' | minus: 2015 }} years of programming experience and
+{{ site.time | date: '%Y' | minus:2018 }}+ years in professional roles at both
+startups and large companies.
 
 I enjoy solving difficult problems and have deep expertise in software
 development across the stack, as well as in Cloud Architecture, DevOps, and
