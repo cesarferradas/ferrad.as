@@ -4,8 +4,8 @@ layout: default
 
 Welcome, I'm César.
 
-I'm a curious Software Engineer with a passion for building systems both
-professionally and for myself.
+I'm a curious and resourceful Software Engineering leader with a passion for
+building sustainable systems.
 
 As a generalist, I enjoy using a variety of programming languages, frameworks
 and technologies to build and maintain systems across the tech stack.
