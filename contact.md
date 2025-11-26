@@ -4,7 +4,7 @@ layout: page
 excerpt: Contact me
 ---
 
-Get in touch via email:
+The best way to get in touch is via email:
 
 <code>contact&#x40;<span style="display: none;">nobots</span>ferrad.as</code>
 
