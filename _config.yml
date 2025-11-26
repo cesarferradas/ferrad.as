@@ -22,9 +22,6 @@ author:
     - name: LinkedIn
       url: https://www.linkedin.com/in/cesarferradas
       handle: César Ferradas
-    - name: Hacker News
-      url: https://news.ycombinator.com/user?id=ferradas
-      handle: ferradas
 
 # Gems
 plugins:
