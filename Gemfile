@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "bigdecimal"
 gem "jekyll"
 gem "jekyll-feed"
 gem "jekyll-sitemap"
