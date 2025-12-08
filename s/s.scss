@@ -6,7 +6,7 @@
     --bg: #fff;
     --fg: #000;
     line-height: 1.6;
-    font-size: 17px;
+    font-size: 16px;
     font-family: system-ui, sans-serif;
 }
 
@@ -19,11 +19,11 @@
 body {
     margin: 0 auto;
     max-width: 40em;
-    padding: 20px;
+    padding: 1.25em;
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 1.75em;
 }
 
 h1, h2, h3, h4 {
@@ -41,18 +41,18 @@ input, textarea, pre {
 }
 
 figcaption, code {
-    font-size: 15px;
+    font-size: 0.9em;
 }
 
 a,
 a:hover {
     text-decoration: underline;
     text-decoration-color: dodgerblue;
-    text-decoration-thickness: 2px;
+    text-decoration-thickness: .1em;
 }
 
 header {
-    font-size: 24px;
+    font-size: 1.5em;
     margin-bottom: .2em;
     font-weight: 550;
 }
@@ -62,7 +62,7 @@ header a {
 }
 
 nav a {
-    margin-right: 12px;
+    margin-right: 1em;
     font-weight: 500;
     text-decoration: none;
 }
@@ -90,7 +90,6 @@ hr {
 }
 
 button, input[type=submit] {
-    padding: 8px;
     cursor: pointer;
 }
 
