@@ -13,4 +13,4 @@ I can also be found as:
 - [{{ contact.handle }}]({{ contact.url }}) on {{ contact.name }}
 {% endfor %}
 
-If you see my name or handle anywhere else online, it's likely not me.
+If you see my name or handle anywhere else online, it's possibly not me.
