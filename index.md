@@ -2,15 +2,18 @@
 layout: default
 ---
 
-Welcome, I'm César.
+## Read [about](/about) me
 
-I'm a curious and resourceful Software Engineering leader with a passion for
-building sustainable systems.
+## See [what I'm doing now](/now)
 
-As a generalist, I enjoy using a variety of programming languages, frameworks
-and technologies to build and maintain systems across the tech stack.
+## [Contact](/contact) me
 
-Besides coding, I'm interested in language learning, chess, cybersecurity,
-personal finance and more. I sometimes [blog](/blog) about my interests.
+<h2>
+  Read a <a id="random-post" href="/blog/">random blog post</a>
+</h2>
 
-Read more [about me](/about) or find out [what I'm doing now](/now).
+<script>
+  var posts = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+  document.getElementById("random-post").href = posts[Math.floor(Math.random() * posts.length)];
+</script>
+

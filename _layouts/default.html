@@ -33,9 +33,11 @@
   </head>
   <body>
     <header><a href="/">{{ site.title }}</a></header>
+    {% if page.title -%}
     <nav>
       <a href="/about">About</a><a href="/blog">Blog</a><a href="/contact">Contact</a><a href="/now">Now</a>
     </nav>
+    {% endif -%}
     <hr>
     <main>
       {{ content -}}
